@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://anteanstudios.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/index.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/journal.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/about.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/press.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/answers.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/propeurbs_workshop.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/2017_spring_internship.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/nousho.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/citiskope.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/starto.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/viiatours.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/moi_ad.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/citytax.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://anteanstudios.com/website_celebration.php</loc>
+  <priority>0.64</priority>
+</url>
+</urlset>
