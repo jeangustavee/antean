@@ -147,13 +147,13 @@
   <div class="col-3">
     <label>
       What is your business status
-      <select tabindex="7">
-        <option>Select your status</option>
-        <option>I Just have an idea</option>
-        <option>I'm starting my business soon</option>
-          <option>I started less than 3 months</option>
-          <option>I started more than 3 months</option>
-          <option>I started more than a year ago</option>
+      <select name="status" tabindex="7">
+        <option value="none">Select your status</option>
+        <option value="idea">I Just have an idea</option>
+        <option value="starting">I'm starting my business soon</option>
+          <option value="less3">I started less than 3 months</option>
+          <option value="more3">I started more than 3 months</option>
+          <option value="more1year">I started more than a year ago</option>
       </select>
     </label>
   </div>
