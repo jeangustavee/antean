@@ -110,37 +110,37 @@
   <div class="col-2">
     <label>
       Name
-      <input placeholder="What is your name?" tabindex="1" />
+      <input name="name" placeholder="What is your name?" tabindex="1" />
     </label>
   </div>
   <div class="col-2">
     <label>
       Comapany Name
-      <input placeholder="What is your company name?" tabindex="2" />
+      <input name="company" placeholder="What is your company name?" tabindex="2" />
     </label>
   </div>
             <div class="col-2">
     <label>
       Your role
-      <input placeholder="What is your role at your company?" tabindex="1" />
+      <input name="role" placeholder="What is your role at your company?" tabindex="1" />
     </label>
   </div>
   <div class="col-2">
     <label>
       How did you hear about us?
-      <input placeholder="How did you find out about Propeurbs?" tabindex="2" />
+      <input name="hear" placeholder="How did you find out about Propeurbs?" tabindex="2" />
     </label>
   </div>
   <div class="col-3">
     <label>
       Phone
-      <input placeholder="What is the provider's phone number?" tabindex="3" />
+      <input name="phone" placeholder="What is the provider's phone number?" tabindex="3" />
     </label>
   </div>
   <div class="col-3">
     <label>
       Email
-      <input placeholder="What is the provider's email?" tabindex="4" />
+      <input name="email" placeholder="What is the provider's email?" tabindex="4" />
     </label>
   </div>
   <div class="col-3">
@@ -159,7 +159,7 @@
             <div class="col-1">
             <label>
                 Explain your business in a few words
-                <textarea placeholder="Please describe what type of service you are providing in a few words" tabindex=""></textarea>
+                <textarea name="message" placeholder="Please describe what type of service you are providing in a few words" tabindex=""></textarea>
                 </label>
             </div>
   <div class="col-submit">
