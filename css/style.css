@@ -920,7 +920,7 @@ textarea {
 	}
 /* CSS for input button */
 @media (min-width: 800px) {
-  input[type=submit] {
+  .col-submit input[type=submit] {
     width: 30%;
     margin: 0 auto;
   }
