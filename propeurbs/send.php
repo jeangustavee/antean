@@ -1,6 +1,5 @@
 <?php
 $statusMsg = '';
-$msgClass = '';
 if(isset($_POST['submit'])){
     // Get the submitted form data
     $email = $_POST['email'];
@@ -12,7 +11,7 @@ if(isset($_POST['submit'])){
     $message = $_POST['message'];
 
     // Check whether submitted data is not empty
-    if(!empty($email) && !empty($name) && !empty($subject) && !empty($message)){
+    if(!empty($email) && !empty($name) && !empty($message)){
 
         if(filter_var($email, FILTER_VALIDATE_EMAIL) === false){
             $statusMsg = 'Please enter a valid email address.';
@@ -40,15 +39,12 @@ if(isset($_POST['submit'])){
             // Send email
             if(mail($toEmail,$emailSubject,$htmlContent,$headers)){
                 $statusMsg = 'Your application for Propeurbs has been submitted successfully !';
-                $msgClass = 'succdiv';
             }else{
                 $statusMsg = 'Your contact request submission failed, please try again.';
-                $msgClass = 'errordiv';
             }
         }
     }else{
         $statusMsg = 'Please fill all the fields.';
-        $msgClass = 'errordiv';
     }
 }
 ?>
