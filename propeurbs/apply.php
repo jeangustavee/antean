@@ -1,57 +1,4 @@
-<?php
-$statusMsg = '';
-$msgClass = '';
-if(isset($_POST['submit'])){
-    // Get the submitted form data
-    $email = $_POST['email'];
-    $name = $_POST['name'];
-    $company = $_POST['company'];
-    $role = $_POST['role'];
-    $hear = $_POST['hear'];
-    $phone = $_POST['phone'];
-    $message = $_POST['message'];
-
-    // Check whether submitted data is not empty
-    if(!empty($email) && !empty($name) && !empty($subject) && !empty($message)){
-
-        if(filter_var($email, FILTER_VALIDATE_EMAIL) === false){
-            $statusMsg = 'Please enter a valid email address.';
-            $msgClass = 'errordiv';
-        }else{
-            // Recipient email
-            $toEmail = 'kenfxstudios@gmail.com';
-            $emailSubject = 'Contact Request Submitted by '.$name;
-            $htmlContent = '<h2>Contact Request Submitted</h2>
-                <h4>Name</h4><p>'.$name.'</p>
-                <h4>Email</h4><p>'.$email.'</p>
-                <h4>Company</h4><p>'.$company.'</p> 
-                <h4>Role</h4><p>'.$role.'</p> 
-                <h4>How you heard about us?</h4><p>'.$hear.'</p> 
-                <h4>Phone</h4><p>'.$phone.'</p> 
-                <h4>Message</h4><p>'.$message.'</p>';
-
-            // Set content-type header for sending HTML email
-            $headers = "MIME-Version: 1.0" . "\r\n";
-            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-
-            // Additional headers
-            $headers .= 'From: '.$name.'<'.$email.'>'. "\r\n";
-
-            // Send email
-            if(mail($toEmail,$emailSubject,$htmlContent,$headers)){
-                $statusMsg = 'Your application for Propeurbs has been submitted successfully !';
-                $msgClass = 'succdiv';
-            }else{
-                $statusMsg = 'Your contact request submission failed, please try again.';
-                $msgClass = 'errordiv';
-            }
-        }
-    }else{
-        $statusMsg = 'Please fill all the fields.';
-        $msgClass = 'errordiv';
-    }
-}
-?>
+<?php include_once("send.php") ?>
 <!doctype html>
 <html lang="en" class="no-js">
 <head>
@@ -160,12 +107,12 @@ if(isset($_POST['submit'])){
         <h1>APPLY TO ATTEND PROPEURBS</h1>
         <p>PROPEURBS is a one-day free business workshop. You can attend at no cost. Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
 
-        <form method="post" action="MAILTO:hey@anteanstudios.com" enctype="text/plain">
+        <form action="" method="post">
   <div class="col-2">
-    <label>
+      <label>
       Name
-      <input name="name" placeholder="What is your name?" tabindex="1" />
-    </label>
+      <input name="name" placeholder="What is your name?" tabindex="1" required="" />
+      </label>
   </div>
   <div class="col-2">
     <label>
@@ -176,31 +123,31 @@ if(isset($_POST['submit'])){
             <div class="col-2">
     <label>
       Your role
-      <input name="role" placeholder="What is your role at your company?" tabindex="1" />
+      <input name="role" placeholder="What is your role at your company?" tabindex="3" />
     </label>
   </div>
   <div class="col-2">
     <label>
       How did you hear about us?
-      <input name="hear" placeholder="How did you find out about Propeurbs?" tabindex="2" />
+      <input name="hear" placeholder="How did you find out about Propeurbs?" tabindex="4" />
     </label>
   </div>
   <div class="col-3">
     <label>
       Phone
-      <input name="phone" placeholder="What is the provider's phone number?" tabindex="3" />
+      <input name="phone" placeholder="What is the provider's phone number?" tabindex="5" required="" />
     </label>
   </div>
   <div class="col-3">
-    <label>
+      <label>
       Email
-      <input name="email" placeholder="What is the provider's email?" tabindex="4" />
-    </label>
+      <input name="email" placeholder="What is the provider's email?" tabindex="6" required=""/>
+      </label>
   </div>
   <div class="col-3">
     <label>
       What is your business status
-      <select tabindex="5">
+      <select tabindex="7">
         <option>Select your status</option>
         <option>I Just have an idea</option>
         <option>I'm starting my business soon</option>
@@ -213,11 +160,11 @@ if(isset($_POST['submit'])){
             <div class="col-1">
             <label>
                 Explain your business in a few words
-                <textarea name="message" placeholder="Please describe what type of service you are providing in a few words" tabindex=""></textarea>
+                <textarea name="message" placeholder="Please describe what type of service you are providing in a few words" tabindex="8"></textarea>
                 </label>
             </div>
   <div class="col-submit">
-    <button type="submit">Submit</button>
+    <input type="submit" name="submit" value="Submit">
   </div>
 </form>
     </div>
