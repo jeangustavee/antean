@@ -148,12 +148,12 @@
     <label>
       What is your business status
       <select name="status" tabindex="7">
-        <option value="none">Select your status</option>
-        <option value="idea">I Just have an idea</option>
-        <option value="starting">I'm starting my business soon</option>
-          <option value="less3">I started less than 3 months</option>
-          <option value="more3">I started more than 3 months</option>
-          <option value="more1year">I started more than a year ago</option>
+        <option value="None">Select your status</option>
+        <option value="Have-Idea">I Just have an idea</option>
+        <option value="Starting-Soon">I'm starting my business soon</option>
+          <option value="Less-Than-3mo">I started less than 3 months</option>
+          <option value="More-Than-3mo">I started more than 3 months</option>
+          <option value="More-Than-1yr">I started more than a year ago</option>
       </select>
     </label>
   </div>
