@@ -1,5 +1,6 @@
 <?php
 $statusMsg = '';
+$msgClass = '';
 if(isset($_POST['submit'])){
     // Get the submitted form data
     $email = $_POST['email'];
@@ -42,12 +43,15 @@ if(isset($_POST['submit'])){
             // Send email
             if(mail($toEmail,$emailSubject,$htmlContent,$headers)){
                 $statusMsg = 'Your application for Propeurbs has been submitted successfully !';
+                $msgClass = 'succdiv';
             }else{
                 $statusMsg = 'Your contact request submission failed, please try again.';
+                $msgClass = 'errordiv';
             }
         }
     }else{
         $statusMsg = 'Please fill all the fields.';
+        $msgClass = 'errordiv';
     }
 }
 ?>
