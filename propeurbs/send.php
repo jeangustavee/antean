@@ -8,6 +8,7 @@ if(isset($_POST['submit'])){
     $role = $_POST['role'];
     $hear = $_POST['hear'];
     $phone = $_POST['phone'];
+    $status = $_POST['status'];
     $message = $_POST['message'];
 
     // Check whether submitted data is not empty
@@ -26,7 +27,8 @@ if(isset($_POST['submit'])){
                 <h4>Company</h4><p>'.$company.'</p> 
                 <h4>Role</h4><p>'.$role.'</p> 
                 <h4>How you heard about us?</h4><p>'.$hear.'</p> 
-                <h4>Phone</h4><p>'.$phone.'</p> 
+                <h4>Phone</h4><p>'.$phone.'</p>
+                <h4>Business Status</h4><p>'.$status.'</p> 
                 <h4>Message</h4><p>'.$message.'</p>';
 
             // Set content-type header for sending HTML email
