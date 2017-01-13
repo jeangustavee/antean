@@ -19,7 +19,7 @@ if(isset($_POST['submit'])){
             $msgClass = 'errordiv';
         }else{
             // Recipient email
-            $toEmail = 'kenfxstudios@gmail.com';
+            $toEmail = 'hey@anteanstudios.com';
             $emailSubject = 'Propeurbs Application Submitted by '.$name;
             $htmlContent = '<h2>Propeurbs Application Submitted</h2>
                 <h4>Name</h4><p>'.$name.'</p>
