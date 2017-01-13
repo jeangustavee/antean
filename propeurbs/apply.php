@@ -107,6 +107,10 @@
         <h1>APPLY TO ATTEND PROPEURBS</h1>
         <p>PROPEURBS is a one-day free business workshop. You can attend at no cost. Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
 
+        <?php if(!empty($statusMsg)){ ?>
+            <p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>
+        <?php } ?>
+        <!-- end status -->
         <form action="" method="post">
   <div class="col-2">
       <label>
