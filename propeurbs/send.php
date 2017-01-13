@@ -20,15 +20,16 @@ if(isset($_POST['submit'])){
         }else{
             // Recipient email
             $toEmail = 'kenfxstudios@gmail.com';
-            $emailSubject = 'Contact Request Submitted by '.$name;
-            $htmlContent = '<h2>Contact Request Submitted</h2>
+            $emailSubject = 'Propeurbs Application Submitted by '.$name;
+            $htmlContent = '<h2>Propeurbs Application Submitted</h2>
                 <h4>Name</h4><p>'.$name.'</p>
                 <h4>Email</h4><p>'.$email.'</p>
                 <h4>Company</h4><p>'.$company.'</p> 
                 <h4>Role</h4><p>'.$role.'</p> 
-                <h4>How you heard about us?</h4><p>'.$hear.'</p> 
-                <h4>Phone</h4><p>'.$phone.'</p>
+                <h4>How you heard about us?</h4><p>'.$hear.'</p>
                 <h4>Business Status</h4><p>'.$status.'</p> 
+                <h4>Phone</h4><p>'.$phone.'</p>
+                 
                 <h4>Message</h4><p>'.$message.'</p>';
 
             // Set content-type header for sending HTML email

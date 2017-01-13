@@ -151,9 +151,9 @@
         <option value="None">Select your status</option>
         <option value="Have-Idea">I Just have an idea</option>
         <option value="Starting-Soon">I'm starting my business soon</option>
-          <option value="Less-Than-3mo">I started less than 3 months</option>
-          <option value="More-Than-3mo">I started more than 3 months</option>
-          <option value="More-Than-1yr">I started more than a year ago</option>
+        <option value="Started-Less-Than-3mos">I started less than 3 months</option>
+        <option value="Started-More-Than-3mos">I started more than 3 months</option>
+        <option value="Started-More-Than-1yr">I started more than a year ago</option>
       </select>
     </label>
   </div>
