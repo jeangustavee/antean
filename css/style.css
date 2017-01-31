@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -34,9 +34,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 main {
@@ -572,7 +572,7 @@ main p {
     color: #fff;
     line-height: 1.4;
     background-color: #ed1c24;
-    
+
 }
 
 .container-red h1 {
@@ -793,7 +793,7 @@ button.accordion-red.active:after {
 form
 {
   display: block;
-  margin: 30px;
+  margin: 0px;
   overflow: hidden;
   background: #FFF;
   border: none;
@@ -823,12 +823,12 @@ form > div > label
   cursor: pointer;
 }
 
-form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 { 
+form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 {
   border-bottom: 1px solid #ec5a5b;
 }
 
 @media(min-width: 800px){
-  form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 { box-shadow: 1px 1px #ec5a5b; border: none; }  
+  form > div.col-1, div.col-2, form > div.col-3, form > div.col-4 { box-shadow: 1px 1px #ec5a5b; border: none; }
 }
 
 @media(min-width:800px){

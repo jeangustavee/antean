@@ -45,35 +45,37 @@
 <body>
 	<main>
 		<!--
-        cover 
+        cover
         -->
 	</main>
 
 	<?php include("menu.php"); ?>
-  
+
 		<!-- Main -->
 					<div id="main">
 
 						<!-- One -->
 							<section id="one" class="tiles">
-                                <article>
+								<article>
+										<span class="image">
+											<img src="img/casting/modeling-cover.jpg" alt="" />
+										</span>
+										<header class="major">
+											<h3><a href="casting/">CASTING CALL</a></h3>
+											<p>Journal</p>
+										</header>
+									</article>
+
+            	<article>
 									<span class="image">
-                                        <img src="img/propeurbs-workshop-thumb.jpg" alt="" />
+                      <img src="img/propeurbs-workshop-thumb.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="propeurbs_workshop">PROPEURBS WORKSHOP</a></h3>
 										<p>Journal</p>
 									</header>
 							</article>
-                                <article>
-									<span class="image">
-										<img src="img/antean_internship.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="2017_spring_internship">2017 SPRING INTERNSHIP</a></h3>
-										<p>Journal</p>
-									</header>
-								</article>
+
 								<article>
 									<span class="image">
 										<img src="img/nousho/nousho_businesscard_mockup_2.jpg" alt="" />
@@ -131,7 +133,7 @@
 							</section>
 
 					</div>
-      
+
     <div class="clients">
         <h1>Selected Clients and Collaborators</h1> <br>
         <p>We love our clients -- collaborators– programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
@@ -150,7 +152,7 @@
 	<img src="img/clients/mihlogo.jpg" alt="" width="100%" />
 	</div>
 </div>
-        
+
         <div class="section group">
 	<div class="col span_1_of_4">
 	<img src="img/clients/nikelogo.jpg" alt="" width="100%" />
@@ -165,7 +167,7 @@
 	<img src="img/clients/topkreyollogo.jpg" alt="" width="100%" />
 	</div>
 </div>
-        
+
         <div class="section group">
 	<div class="col span_1_of_4">
 	<img src="img/clients/editionpulucialogo.jpg" alt="" width="100%" />
@@ -180,7 +182,7 @@
 	<img src="img/clients/ienvyonlinelogo.jpg" alt="" width="100%" />
 	</div>
 </div>
-        
+
     </div>
-    
+
 <?php include("footer.php"); ?>
