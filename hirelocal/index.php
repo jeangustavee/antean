@@ -14,7 +14,7 @@
 	<script src="../js/modernizr.js"></script> <!-- Modernizr -->
     <link rel="icon" type="image/png" sizes="32x32" href="../img/antean_favicon.png">
 
-	<title>After Work Networking Mixer | Jacksonville, fl </title>
+	<title>HIRE LOCAL - CALL FOR STORIES | Jacksonville, fl </title>
 
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -55,7 +55,7 @@ currency: 'USD'
 
 <style>
     .top-page {
-    background-image:url(../img/mixer/mixer-img.jpg);
+    background-color: #91B6CB;
     background-repeat:no-repeat;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -91,7 +91,7 @@ currency: 'USD'
 
     h2{
         font-size: 1.9em;
-        color: white;
+        color: #4E6D7F;
         text-transform: uppercase;
     }
 
@@ -107,10 +107,17 @@ currency: 'USD'
         padding: 30px 0%;
         background-color: #ed1c24;
     }
+    dropcap {
+    float: left;
+    width: 0.1em;
+    font-size: 700%;
+    line-height: 70%;
+    color: #AF464B;
+}
 
 @media only screen and (min-width: 768px) {
   .top-page {
-    padding: 190px 10%;
+    padding: 150px 0%;
   }
   .top-page h1{
     font-size: 6em;
@@ -144,95 +151,121 @@ currency: 'USD'
 
 
 <div class="top-page">
-            <img src="../img/mixer/afterwork-temp-logo.png" width="290px">
-            <h2><b>For creative entrepreneurs<br>and small business owners</b></h2>
+            <img src="../img/hirelocal/Hire_Local_logo%201.png" width="300px">
+            <h2><b>call for subjects<br>join the movement...</b></h2>
 	</div>
     <div class="container">
-        <h1>February 10, 2017 | 6-8PM</h1>
-        <p>After Work Networking Mixer is a <b>FREE</b> networking mixer committed to connect like-minded individuals in the Jacksonville business scene on a monthly basis. Our primary focus is to create an atmosphere where business owners and creative entrepreneurs may network and socialize freely. The After Work Networking Mixer will give opportunities to business owners and creative entrepreneurs to showcase their product or services. It’s our hope that as we do more events, we might grow to encompass more of what we feel is lacking in the Jacksonville business and entrepreneurial scenes.</p>
+        <h1>Make bigger impacts together</h1>
+        <p><dropcap>"</dropcap>For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc.</p>
         <br>
-        <p>We will have a list with all business owners attending the event to give out to every single guest and to email out to our subscribers as references. They might use the list when they need any type of service. People do business with people they know. It’s a good way to showcase all businesses in one place instead of exchanging tones of business cards. It’s also a good way to build a stronger business community. If you would like to enlist your business, please register your business below.
-</p>
-
+        <p>I want to hear from folks with stories to tell and that are able to make impacts on others’ lives. I want to know what pushed you to launch your business. I want to know how you made it in Jacksonville. I want to know about your triumphs and struggles. I want to hear from your point of view of joining the movements of #hirelocalinjax."</p>
+        <br>
+        <p><a href="http://jeanegustave.com" target="_blank">— Jean</a> </p><br><br>
+<hr>
 				<br><br>
+       <h2>Think it's a good movement?<br>Submit your story</h2><br><br>
         <!-- application submit status -->
         <?php if(!empty($statusMsg)){ ?>
             <p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>
         <?php } ?>
         <!-- end status -->
         <form action="" method="post">
-  <div class="col-3">
+  <div class="col-1">
       <label>
-      Name
+      NAME
       <input name="name" placeholder="What is your name?" tabindex="1" required="" />
       </label>
   </div>
-  <div class="col-3">
+  <div class="col-1">
     <label>
-      Email
+      EMAIL
       <input name="email" placeholder="Your email here" tabindex="2" />
     </label>
   </div>
-    <div class="col-3">
+    <div class="col-1">
     <label>
-      Phone Number
+      PHONE NUMBER
       <input name="phone" placeholder="Your phone #" tabindex="3" />
     </label>
   </div>
-  <div class="col-2">
+  <div class="col-1">
     <label>
-      Business Name
-      <input name="business" placeholder="Your business name?" tabindex="4" />
+      TITLE AND COMPANY
+      <input name="title" placeholder="Your company name and your position?" tabindex="4" />
     </label>
   </div>
-  <div class="col-2">
+  <div class="col-1">
     <label>
-      Business Website
-      <input name="website" placeholder="Your business website link" tabindex="5" />
+      WEBSITE/SOCIAL
+      <input name="website" placeholder="Your website and social media link" tabindex="5" />
     </label>
   </div>
-  <div class="col-3">
+  <div class="col-1">
       <label>
-      Business Instagram
-      <input name="instagram" placeholder="Business instagram link" tabindex="6" />
+      YEARS IN BUSINESS
+      <input name="years" placeholder="How long have you been in your field?" tabindex="6" />
       </label>
   </div>
-    <div class="col-3">
-      <label>
-      What's your position
-      <input name="position" placeholder="Your position at your business" tabindex="7" />
-      </label>
-  </div>
-  <div class="col-3">
+  <div class="col-1">
     <label>
-      Would you like to become a sponsor?
-      <select name="sponsor" tabindex="8">
+      HAVE YOU EVER HIRED LOCAL TALENTS BEFORE?
+      <select name="hire" tabindex="7">
         <option value="None">Select one</option>
         <option value="Yes">Yes</option>
         <option value="No">No</option>
-        <option value="Maybe">Maybe Next Time</option>
+      </select>
+    </label>
+  </div>
+           <div class="col-1">
+    <label>
+      ARE YOU A SUPPORTER OF LOCAL BUSINESSES?
+      <select name="support" tabindex="8">
+        <option value="None">Select one</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
       </select>
     </label>
   </div>
             <div class="col-1">
             <label>
-                Describe your company
-                <textarea name="description" placeholder="Description here" tabindex="9"></textarea>
+                SHORT BIO
+                <textarea name="bio" placeholder="Short bio here" tabindex="9"></textarea>
+                </label>
+            </div>
+            <div class="col-1">
+            <label>
+                PROUDEST CAREER ACCOMPLISHMENTS
+                <textarea name="accomplishments" placeholder="Type here" tabindex="10"></textarea>
+                </label>
+            </div>
+            <div class="col-1">
+            <label>
+                BIGGEST CAREER STRUGGLES
+                <textarea name="struggles" placeholder="Type here" tabindex="11"></textarea>
+                </label>
+            </div>
+            <div class="col-1">
+            <label>
+                DO YOU HAVE ANY STRATEGY TO START/CONTINUE HIRING LOCAL?
+                <textarea name="strategy" placeholder="Type here" tabindex="12"></textarea>
+                </label>
+            </div>
+            <div class="col-1">
+            <label>
+               ANTHING ELSE YOU'D LIKE TO SHARE?
+                <textarea name="share" placeholder="Type here" tabindex="13"></textarea>
                 </label>
             </div>
     <div class="col-1">
 				<label>
-				How are you doing with your business?
-				<input name="status" placeholder="Tell us if you are doing okay, being successful, struggling, etc." tabindex="10"  />
+				HOW DID YOU HEAR ABOUT THIS PROJECT?
+				<input name="hear" placeholder="Tell us where did you hear about the project" tabindex="14"  />
 				</label>
 				</div>
   <div class="col-submit">
     <input type="submit" name="submit" value="Submit">
   </div>
 </form>
-   <p><b>MANIFESTO</b> </p>
-   <p>It’s our mission to simply create an awesome monthly event. It’s our desire to cultivate a place where people with similar interests can meet and mingle every month. We’re all about inclusion at The After Work Networking Mixer; no people, group or organization need be excluded. If you vibe with our concept, come to our next event and introduce yourself.
-</p>
     </div>
 
     <div class="footer">
