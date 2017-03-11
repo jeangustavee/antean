@@ -18,6 +18,7 @@
 						<li><a href="about">About</a></li>
 						<li><a href="press">Press</a></li>
 						<li><a href="answers">Answers</a></li>
+						<li><a href="newbusiness">New Business</a></li>
 					</ul>
 				</nav>
 			</div>
