@@ -43,11 +43,11 @@ main {
   position: relative;
   z-index: 2;
   /* fix bug on iOS */
-  height: 0px;
+  height: 100%;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
-  background-image:url(../img/intro.jpg);
+  background-image:url(../img/intro-moringa.jpg);
   max-width: 100%;
   background-size: cover;
   background-position: center;
@@ -66,19 +66,26 @@ main {
   -moz-transition-timing-function: cubic-bezier(0.91, 0.01, 0.6, 0.99);
   transition-timing-function: cubic-bezier(0.91, 0.01, 0.6, 0.99);
 }
-main h1, main p {
-  text-align: center;
-}
+
 main h1 {
   font-size: 2.6rem;
   margin-bottom: 1em;
+  color: white;
+  max-width: 250px;
+  text-transform: uppercase;
+  padding: 10px;
+  height: auto;
 }
 main p {
-  font-family: "Merriweather", serif;
-  color: #d6dfdb;
+  font-family: sans-serif;
+  color: white;
   max-width: 450px;
   margin: 0 auto;
   line-height: 1.6;
+  float: left;
+  text-align: left;
+  padding: 10px;
+  height: auto;
 }
 .navigation-is-open main {
   -webkit-transform: translateX(100%);
@@ -939,3 +946,29 @@ input[type=submit] {
   border-radius: 5px;
   text-transform: uppercase;
 }
+
+button1 {
+    background-color: transparent; 
+    border: solid 3px white;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+button1:hover {
+    background-color: white; 
+    border: solid 3px white;
+    color: #2C7E58;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
