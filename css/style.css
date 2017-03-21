@@ -47,6 +47,7 @@ main {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
+  margin-bottom: 200px;
   background-image:url(../img/intro-moringa.jpg);
   max-width: 100%;
   background-size: cover;
@@ -948,7 +949,7 @@ input[type=submit] {
 }
 
 button1 {
-    background-color: transparent; 
+    background-color: transparent;
     border: solid 3px white;
     color: white;
     padding: 15px 32px;
@@ -961,7 +962,7 @@ button1 {
 }
 
 button1:hover {
-    background-color: white; 
+    background-color: white;
     border: solid 3px white;
     color: #2C7E58;
     padding: 15px 32px;
@@ -972,3 +973,22 @@ button1:hover {
     font-size: 16px;
 }
 
+.instagram {
+    position: relative;
+    padding: 120px 10%;
+    width: ;
+    font-size: 2.6rem;
+    margin-bottom: 1em;
+    color: #000;
+    line-height: 1.4;
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .instagram {
+    padding: 125px 10%;
+  }
+  .instagram h1{
+    font-size: 3.6rem;
+  }
+}

@@ -76,6 +76,8 @@ img {
 	</div>
             </div>   
             <br><br><br>
+            
+           
     </div>
     
      <?php include("footer.php"); ?>

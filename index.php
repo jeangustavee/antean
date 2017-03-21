@@ -45,97 +45,71 @@
 <body>
 	<main>
 		<h1></h1>
-        <p>Moringa Lakay is a natural product imported from Haiti. We are happy to be the agency developping the brand in the US.<br>  
-           <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
+        <p>Moringa Lakay is a natural product imported from Haiti. We are happy to be the agency developping the brand in the US.<br>
+           <a href="moringalakay"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
 	<?php include("menu.php"); ?>
 
-		<!-- Main -->
-					<div id="main">
 
-						<!-- One -->
-							<section id="one" class="tiles">
-								<article>
-										<span class="image">
-											<img src="img/casting/modeling-cover.jpg" alt="" />
-										</span>
-										<header class="major">
-											<h3><a href="casting/">CASTING CALL</a></h3>
-											<p>Journal</p>
-										</header>
-									</article>
 
-            	<article>
-									<span class="image">
-                      <img src="img/propeurbs-workshop-thumb.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="propeurbs_workshop">PROPEURBS WORKSHOP</a></h3>
-										<p>Journal</p>
-									</header>
-							</article>
 
-								<article>
-									<span class="image">
-										<img src="img/nousho/nousho_businesscard_mockup_2.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="nousho">NOUSHO</a></h3>
-										<p>Identity + Advertising</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="img/citiskope/citiskope_home_cover.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="citi_skope">CITISKOPE</a></h3>
-										<p>App dev. + Identity + Advertising</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="img/star-o-thumbnail.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="starto">STAR-O</a></h3>
-										<p>Branding & Packaging</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="img/viiatours_thumnail.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="viia_tours">VIIATOURS</a></h3>
-										<p>Branding and Digital Marketing</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="img/ems-thumbnail.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="ems">EMS</a></h3>
-										<p>Website Redesign + Social Media</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="img/citytax/citytax_thumbnail.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="city_tax">CITY TAX</a></h3>
-										<p>Logo & Website</p>
-									</header>
-								</article>
-							</section>
-
+				
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/nousho_thumbnail.jpg)"></div>
+						 <h2 class="title title--left">nousho</h2>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-1">Nousho is an advanced eco-friendly dry cleaning company. We were hired to create their logo, business cards and website. The project is still in progress as our team developping the website now.<br><a href="nousho">view case study>></a> </span></p>
 					</div>
+				</section>
+
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/nsite_thumbnail.jpg)"></div>
+						<h2 class="title">nsite</h2>
+						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup helping fund African American businesses. They wanted to present the company with a simple and minimal flair. We conceptualized a simple but bold letter based logo for them in blanck and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
+					</div>
+				</section>
+
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/moringa_thumbnail.jpg)"></div>
+						<h2 class="title title--left">moringa lakay</h2>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-3">The Moringa Lakay team asked us to re-design the Moringa Lakay brand to reflect the origine of the product and its core values. We apprpoched the project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
+					</div>
+				</section>
+
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/staro_thumbnail.jpg)"></div>
+						<h2 class="title">star-o</h2>
+						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we had fun doing and we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="nsite">here.</a></span></p>
+					</div>
+				</section>
+
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/viiatours_thumnail.jpg)"></div>
+						<h2 class="title title--left">viiatours</h2>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-5">VIIATOURS is an excursion company based in Dominican Republic. We created their logo and developped their e-commerce website. <br><a href="viia_tours">view case study>></a> </span></p>
+					</div>
+				</section>
+
+				<section class="section section--flow">
+					<div class="content">
+						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/citytax_thumbnail.jpg)"></div>
+						<h2 class="title">city tax</h2>
+						<p class="text"><span class="deco-bg deco-bg--color-6">We have been working with City Tax since the begining of their journey. We are thrilled to be the one still handling their branding and marketing until now. <br><a href="city_tax">view case study>></a></span></p>
+					</div>
+				</section>
+
+
+
+
+
 
     <div class="clients">
-        <h1>Selected Clients and Collaborators</h1> <br>
+        <h1>Selected Clients and Collaborators</h1> 
         <p>We love our clients -- collaborators– programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
         <br><br>
         <div class="section group">
@@ -184,5 +158,22 @@
 </div>
 
     </div>
+    
+   
 
 <?php include("footer.php"); ?>
+
+ <script>
+    $(document).ready(function() {
+var movementStrength = 25;
+var height = movementStrength / $(window).height();
+var width = movementStrength / $(window).width();
+$("main").mousemove(function(e){
+          var pageX = e.pageX - ($(window).width() / 2);
+          var pageY = e.pageY - ($(window).height() / 2);
+          var newvalueX = width * pageX * -1 - 25;
+          var newvalueY = height * pageY * -1 - 50;
+          $('#top-image').css("background-position", newvalueX+"px     "+newvalueY+"px");
+});
+});
+    </script>

@@ -41,7 +41,7 @@ img {
 <body>
 	<div class="top-page">
             <img src="img/Antean_newbusiness.png" width="42%">
-            <h1>Need to revamp you empire? <br>Well, get in touch</h1>
+            <h1>Need to revamp your empire? <br>Well, get in touch</h1>
 	</div>
         <div class="container">
         <h3>Gosh! Too many ways to get in touch with us!</h3>
