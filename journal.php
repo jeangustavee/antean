@@ -1,12 +1,10 @@
 <?php include("head.php"); ?>
 <style>
 .col{
-        border: 1.5px solid lightgray;
         padding: 10px;
     }
 h3, p{
-        margin: 10px;
-        color: gray;
+        margin: 20px;
 }
 
 * {
@@ -44,36 +42,77 @@ img {
             <h1>We don't take it to ourself, <br>we share it with the world.</h1>
 	</div>
         <div class="container">
-        <h1>OUR JOURNAL</h1><br><br>
             
             <!-- featured article -->
-        <img src="img/journal/2017_winter_internship.jpg" width="100%">
+        <img src="img/journal/hirelocal.jpg" width="100%">
 	
-        <h3>2017 SPRING INTERNSHIP</h3>
-            <p>We are looking for a rockstar Graphic Design intern to work with our Creative Department.</p> 
-
-            <p>This position is non-paid and ideal for current students seeking college credit, and recent graduates looking for experience in the field of advertising and marketing.</p>
-
-            <p><b>Schedule:</b> Spring Semester (3 – 5 months - depending on amount of hours). Hours are flexible and can be arranged according to a student’s academic/work schedule.
-</p>
-        <p style="color:red"><a href="2017_spring_internship.php">Read more +</a>  </p>	
+        <h3>HIRE LOCAL - Call for subjects</h3>
+            <p>For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc.</p>
+            
+        <p style="color:red"><a href="hire-local-project">Read more +</a>  </p>	
             <br><br><br>
+            
+            
             
               <!-- more artiles -->
          <div class="section group">
              <hr><br>
+             
+             
+             <div class="col span_1_of_2">
+        <img class="journalimg" src="img/journal/jobs-summer.jpeg" width="100%"><br>
+        <div class="journaltext">
+        <h3>GRAPHIC DESIGN SUMMER 2017 INTERNSHIP</h3>
+        <p><a href="graphic-design-internship-summer-2017-jacksonville">We are looking for a rockstar Graphic Design intern to work with our Creative Department.... </a> </p></div>
+	</div>
+             
+             <div class="col span_1_of_2">
+        <img class="journalimg" src="img/journal/2017_winter_internship.jpg" width="100%"><br>
+        <div class="journaltext">
+        <h3>COMMUNICATION - PR SUMMER INTERNSHIP</h3>
+            <p><a href="communication-pr-internship-summer-2017-jacksonville">We are looking for a rockstar Communication/Public Relation major intern to work with our Marketing Department... </a> </p></div>
+	</div>
+            </div>
+             
+             <div class="section group">
+             <br>
 	<div class="col span_1_of_2">
-        <img src="img/journal/11.jpg" width="100%"><br>
+        <img class="journalimg" src="img/propeurbs/workshop-propeurbs.jpg" width="100%"><br>
+        <div class="journaltext">
         <h3>PROPEURBS WORKSHOP</h3>
-        <p>PROPEURBS is a one-day workshop for creative entrepreneurs, small business owners and anyone looking to Spark Results... <a href="propeurbs_workshop.php">Read more +</a> </p>
+            <p><a href="propeurbs_workshop">PROPEURBS is a one-day workshop for creative entrepreneurs, small business owners and anyone looking to Spark Results...</a> </p></div>
 	</div>
              
 	<div class="col span_1_of_2">
-        <img src="img/journal/12.jpg" width="100%"><br>
+        <img class="journalimg" src="img/journal/12.jpg" width="100%"><br>
+        <div class="journaltext">
         <h3>CELEBRATING OUR NEW WEBSITE</h3>
-        <p>We also have to keep in mind that this new website is essentially a modern website with a minimal aspect, but contoured with our principles... <a href="website_celebration.php">Read more +</a></p>
+            <p><a href="website_celebration">We also have to keep in mind that this new website is essentially a modern website with a minimal aspect...</a></p></div>
         
 	</div>
+           
+           
+           
+           
+           
+           
+           
+           
+           
+    
+             
+             
+             
+          
+          
+          
+          
+          
+           
+           
+           
+           
+           
             </div>   
             <br><br><br>
             

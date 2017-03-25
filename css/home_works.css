@@ -8,6 +8,15 @@
 	min-height: 550px;
 	position: relative;
 	margin: 0 30vw 0 0;
+    transition: all 13s ease-out;
+}
+
+.fragment-wrap:hover {
+    box-shadow: inset 0 0 0 25px #ED1C24;
+    -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+    transition: all 0.5s ease-in;
 }
 
 .fragment-wrap--right {

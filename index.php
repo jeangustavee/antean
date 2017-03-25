@@ -1,4 +1,5 @@
 <?php include("head.php"); ?>
+<?php include("menu.php"); ?>
 <style>
 /*  SECTIONS  */
 .section {
@@ -49,7 +50,7 @@
            <a href="moringalakay"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
-	<?php include("menu.php"); ?>
+	
 
 
 

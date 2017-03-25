@@ -1,4 +1,14 @@
 <?php include("head.php"); ?>
+
+
+
+<script>
+fbq('track', 'CompleteRegistration', {
+value: 25.00,
+currency: 'USD'
+});
+</script>
+
 <style>
 .col{
         border: 1.5px solid lightgray;
