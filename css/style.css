@@ -9,17 +9,13 @@ Primary style
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
-}
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  font-size: 1.9rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: gray;
   background-color: #ffffff;
 }
@@ -33,6 +29,20 @@ a {
   color: #000;
   text-decoration: none;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', sans-serif;
+}
+
+p, ul, li {
+    font-family: 'Poppins', sans-serif;
+    line-height: normal;
+}
+
+b {
+        font-weight: 600;
+        text-transform: uppercase;
+    }
 
 /* --------------------------------
 
@@ -48,7 +58,7 @@ main {
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
   margin-bottom: 200px;
-  background-image:url(../img/intro-moringa.jpg);
+  background-image:url(../img/intro-moringa-anim.gif);
   max-width: 100%;
   background-size: cover;
   background-position: center;
@@ -69,7 +79,7 @@ main {
 }
 
 main h1 {
-  font-size: 2.6rem;
+  font-size: 2em;
   margin-bottom: 1em;
   color: white;
   max-width: 250px;
@@ -78,15 +88,16 @@ main h1 {
   height: auto;
 }
 main p {
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: white;
   max-width: 450px;
-  margin: 0 auto;
-  line-height: 1.6;
+  margin-top: 0 auto;
+  line-height: normal;
   float: left;
   text-align: left;
   padding: 10px;
   height: auto;
+  font-size: 1em;
 }
 .navigation-is-open main {
   -webkit-transform: translateX(100%);
@@ -103,10 +114,10 @@ main p {
     height: 100vh;
   }
   main h1 {
-    font-size: 3.6rem;
+    font-size: 2.5em;
   }
   main p {
-    font-size: 2rem;
+    font-size: 1.5em;
   }
 }
 
@@ -311,7 +322,7 @@ main p {
 .nav h2 {
   position: relative;
   margin-bottom: 1.7em;
-  font-size: 1.3rem;
+  font-size: 2em;
   font-weight: 800;
   color: #080b0f;
   text-transform: uppercase;
@@ -333,8 +344,7 @@ main p {
   margin: 1.6em 0;
 }
 .nav .primary-nav a {
-  font-family: "Merriweather", serif;
-  font-size: 2.4rem;
+  font-size: 2em;
   color: white;
   display: inline-block;
 }
@@ -348,8 +358,7 @@ main p {
   margin-top: 80px;
 }
 .nav .contact-info li {
-  font-family: "Merriweather", serif;
-  margin-bottom: 1.5em;
+  margin-bottom: 2em;
   line-height: 1.2;
   color: white;
 }
@@ -360,7 +369,7 @@ main p {
   display: block;
 }
 .nav .cd-contact-info li, .nav .contact-info a, .nav .contact-info span {
-  font-size: 1.6rem;
+  font-size: 1.1em;
 }
 @media only screen and (min-width: 1170px) {
   .nav .navigation-wrapper {
@@ -386,7 +395,7 @@ main p {
     margin: 2em 0;
   }
   .nav .primary-nav a {
-    font-size: 4.4rem;
+    font-size: 2em;
   }
   .nav .contact-info {
     margin-top: 120px;
@@ -396,7 +405,7 @@ main p {
     margin-bottom: 2.4em;
   }
   .nav .contact-info li, .nav .contact-info a, .nav .contact-info span {
-    font-size: 2rem;
+    font-size: 1.15em;
   }
 }
 
@@ -424,18 +433,25 @@ main p {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    font-size: 2.6rem;
+    font-size: 2em;
     margin-bottom: 1em;
     color: #000;
-    line-height: 1.4;
+    line-height: normal;
     text-align: center;
+    border: none;
  }
-@media only screen and (min-width: 768px) {
+
+.clients h1 {
+    font-size: 2.5em;
+}
+
+@media only screen and (max-width: 768px) {
   .clients {
     padding: 125px 10%;
+    font-size: 1.5em;
   }
   .clients h1{
-    font-size: 3.6rem;
+    font-size: 2em;
   }
 }
 
@@ -445,20 +461,15 @@ main p {
     width: auto;
     background-color: #ed1c24;
     color: #ffffff;
+    line-height: normal;
+    font-size: 2em;
 }
-.footer h1 {
-  font-size: 2.2rem;
-  margin-bottom: 1em;
-  color: #fff;
-  line-height: 1.6;
-}
+
 .footer p {
-  font-family: "Merriweather", serif;
   color: #fff;
   max-width: auto;
   margin: 0 auto;
   line-height: 1.6;
-  font-size: 2.2em;
 }
 .footer a {
   color: white;
@@ -466,15 +477,10 @@ main p {
 .footer a:hover {
     color: rgba(255, 255, 255, 0.2);
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .footer {
     padding: 125px 10%;
-  }
-  .footer h1 {
-    font-size: 2.6rem;
-  }
-  .footer p {
-    font-size: 2rem;
+      font-size: 1.5em;
   }
 }
 
@@ -486,25 +492,24 @@ main p {
 }
 
 .main-container h1 {
-  font-size: 2.6rem;
+  font-size: 2.5em;
   margin-bottom: 1em;
 }
 .main-container p {
-  font-family: "Merriweather", serif;
   color: #000;
   max-width: auto;
   margin: 0 auto;
-  line-height: 1.6;
+  line-height: normal;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .main-container {
     padding: 125px 10%;
   }
   .main-container h1 {
-    font-size: 3.6rem;
+    font-size: 2em;
   }
   .main-container p {
-    font-size: 2rem;
+    font-size: 1.5em;
   }
 }
 
@@ -512,35 +517,53 @@ main p {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    font-size: 1.9rem;
+    font-size: 1.5em;
     margin-bottom: 1em;
     color: #fff;
-    line-height: 1.4;
+    line-height: normal;
     text-align: center;
     background-color: #ed1c24;
 }
 
 .top-page h1 {
+    font-size: 2.5em;
     font-weight: 700;
 }
 
-@media only screen and (min-width: 768px) {
+.top-page h2 {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+  dropcap {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    line-height: 80%;
+    color: gray;
+}
+
+@media only screen and (max-width: 768px) {
   .top-page {
     padding: 125px 10%;
   }
   .top-page h1{
-    font-size: 5.6rem;
+    font-size: 1.2em;
   }
+    .top-page h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    }
 }
 
 .container {
     position: relative;
     padding: 120px 10%;
     width: 90%;
-    font-size: 1.2rem;
+    font-size: 1.5em;
     margin-bottom: 1em;
     color: gray;
-    line-height: 1.4;
+    line-height: normal;
     margin: 0 auto;
 }
 
@@ -549,23 +572,24 @@ main p {
     font-weight: 500;
     padding: 20px;
     font-weight: 600;
+    font-size: 2.5em;
 }
 
 .container h3 {
-    font-size: 2rem;
+    font-size: 2.5em;
     font-weight: 600;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .container {
     padding: 125px 10%;
-    font-size: 2.2rem;
+    font-size: 1.5em;
   }
   .container h1{
-    font-size: 5.6rem;
+    font-size: 2em;
   }
     .container h3{
-    font-size:2.6rem;
+    font-size:2em;
   }
 }
 
@@ -573,10 +597,10 @@ main p {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    font-size: 2.2rem;
+    font-size: 2em;
     margin-bottom: 1em;
     color: #fff;
-    line-height: 1.4;
+    line-height: normal;
     background-color: #ed1c24;
 
 }
@@ -586,25 +610,27 @@ main p {
     font-weight: 500;
     padding: 20px;
     font-weight: 600;
+    font-size: 2.5em;
 }
 
 .container-red h3 {
     font-weight: 300;
     font-weight: 600;
+    font-size: 2.5em;
 }
 
 .container-red p {
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .container-red {
     padding: 125px 10%;
   }
   .container-red h1{
-    font-size: 5.6rem;
+    font-size: 1.7em;
   }
     .container-red h3{
-    font-size:2.6rem;
+    font-size:1.5em;
   }
 }
 
@@ -613,10 +639,10 @@ main p {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    font-size: 2.2rem;
+    font-size: 2em;
     margin-bottom: 1em;
     color: gray;
-    line-height: 1.4;
+    line-height: normal;
 }
 
 .container-about h1 {
@@ -624,6 +650,7 @@ main p {
     font-weight: 500;
     padding: 20px;
     font-weight: 600;
+    font-size: 2.5em;
 }
 
 .container-about h3 {
@@ -639,12 +666,12 @@ main p {
     width: 70%;
   }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .container-about {
     padding: 125px 10%;
   }
   .container-about h1{
-    font-size: 5.6rem;
+    font-size: 1.7em;
   }
     .container-about h3{
     font-size:2.6rem;
@@ -701,7 +728,7 @@ button.accordion {
     border: none;
     outline: none;
     transition: 0.4s;
-    font-size: 1.4em;
+    font-size: 1.5em;
 }
 button.accordion.active, button.accordion:hover {
     background-color: transparent;
@@ -743,7 +770,7 @@ button.accordion-red {
     border: none;
     outline: none;
     transition: 0.4s;
-    font-size: 1.4em;
+    font-size: 1.5em;
 }
 button.accordion-red.active, button.accordion-red:hover {
     background-color: transparent;
@@ -764,7 +791,7 @@ div.panel.show {
 }
 button.accordion-red:after {
     content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 13px;
+    font-size: 1.5em;
     color: #fff;
     float: right;
     margin-left: 5px;
@@ -777,23 +804,23 @@ button.accordion-red.active:after {
 .alignleft a {
 	float: left;
     text-decoration: underline;
-    font-size: 12px;
+    font-size: 2em;
 }
 .alignright a {
 	float: right;
     text-decoration: underline;
-    font-size: 12px;
+    font-size: 2em;
 }
 
 .alignleft a:hover {
 	float: left;
     text-decoration: line-through;
-    font-size: 12px;
+    font-size: 2em;
 }
 .alignright a:hover {
 	float: right;
     text-decoration: line-through;
-    font-size: 12px;
+    font-size: 2em;
 }
 
 form
@@ -871,7 +898,7 @@ form > div.col-submit {
 form > div.col-submit button {
   border: 1px solid #E4E4E4;
   background: #053950 ;
-  font-size: 14px;
+  font-size: 1.5em;
   color: #fff;
   padding: 1em;
   display: block;
@@ -919,7 +946,7 @@ textarea {
     line-height: 17px;
     margin: 5px -5px 0;
     padding: 7px 5px 3px;
-    font-size: 14px;
+    font-size: 1.5em;
     font-weight: 200;
     opacity: .66;
     transition: opacity .3s, box-shadow .3s;
@@ -935,7 +962,7 @@ textarea {
 input[type=submit] {
   border: 1px solid #E4E4E4;
   background: #053950;
-  font-size: 14px;
+  font-size: 1.5em;
   color: #fff;
   padding: 1em;
   display: block;
@@ -955,7 +982,7 @@ button1 {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1em;
     font-family: sans-serif;
 }
 
@@ -968,17 +995,17 @@ button1:hover {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .instagram {
     position: relative;
     padding: 120px 10%;
     width: ;
-    font-size: 2.6rem;
+    font-size: 1.5em;
     margin-bottom: 1em;
     color: #000;
-    line-height: 1.4;
+    line-height: normal;
     text-align: center;
 }
 
@@ -1028,6 +1055,10 @@ button1:hover {
     float: right;
 }
 
+.journaltext h3 {
+    font-size: 1.5em;
+}
+
 @media only screen and (max-width: 668px) {
   .journaltext {
     border: none;
@@ -1036,7 +1067,11 @@ button1:hover {
     margin: 5px;
   }
     
-    .col {
+    .journaltext h3 {
+        font-size: 1.2em;
+    }
+    
+    #journalborder {
         border: 1px solid gray;
     }
     .journalimg {
@@ -1056,5 +1091,13 @@ button1:hover {
 
 .journaltext a:hover{
     color: gray;
+    }
 }
+
+.alignleft {
+    font-size: .25em;
+}
+
+.alignright {
+    font-size: .25em;
 }

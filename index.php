@@ -50,12 +50,6 @@
            <a href="moringalakay"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
-	
-
-
-
-
-				
 				<section class="section section--flow">
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/nousho_thumbnail.jpg)"></div>
@@ -68,7 +62,7 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/nsite_thumbnail.jpg)"></div>
 						<h2 class="title">nsite</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup helping fund African American businesses. They wanted to present the company with a simple and minimal flair. We conceptualized a simple but bold letter based logo for them in blanck and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
+						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup helping fund African American businesses. We conceptualized a simple but bold letter based logo for them in blanck and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
 					</div>
 				</section>
 
@@ -76,7 +70,7 @@
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/moringa_thumbnail.jpg)"></div>
 						<h2 class="title title--left">moringa lakay</h2>
-						<p class="text text--left"><span class="deco-bg deco-bg--color-3">The Moringa Lakay team asked us to re-design the Moringa Lakay brand to reflect the origine of the product and its core values. We apprpoched the project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-3">We apprpoched the The Moringa Lakay project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
 					</div>
 				</section>
 
@@ -103,10 +97,6 @@
 						<p class="text"><span class="deco-bg deco-bg--color-6">We have been working with City Tax since the begining of their journey. We are thrilled to be the one still handling their branding and marketing until now. <br><a href="city_tax">view case study>></a></span></p>
 					</div>
 				</section>
-
-
-
-
 
 
     <div class="clients">

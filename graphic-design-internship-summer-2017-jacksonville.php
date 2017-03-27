@@ -8,36 +8,17 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
-    height: 500px;
+    height: 100%;
     padding: 190px 10%;
 }
-    h3 {
-        margin-bottom: 90px;
-        color: gray;
-        align-content: center;
-        font-size: 1.5em;
-        text-transform: uppercase;
-    }
     
-    h2{
-        font-size: 2.5em;
-    }
     
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .top-page {
     padding: 190px 10%;
   }
-  .top-page h1{
-    font-size: 5.6rem;
-  }
-    h3{
-        font-size: 3.5em;
-    }
 }   
-    b {
-        font-weight: 600;
-        text-transform: uppercase;
-    }
+    
 </style>
 <?php include("menu.php"); ?>
 <div class="top-page">
@@ -46,10 +27,10 @@
             <p>Published on: March 24th, 2017 • <b style="color:red">2 MIN READ</b></p>
 	</div>
     <div class="container">
-        <h3>Opportunity to join a studio that creates everything from scratch...</h3>
+        <h3>Opportunity to join a studio that creates everything from scratch...</h3><br>
             
             <!-- featured article -->
-        <img src="img/journal/jobs-summer.jpeg" width="100%"><br><br><br><br>
+        <img src="img/journal/jobs-summer.jpeg" width="100%"><br><br>
 	
         <p>We are looking for a rockstar Graphic Design intern to work with our Creative Department. </p><br>
 
@@ -78,12 +59,7 @@ schedule.</p><br>
     </ul>
         <br>
 
-        <p>If you’re interested, let’s talk. Submit your resume to hey[at]anteanstudios[dot]com. </p>
-
-
-        
-
-            
+        <p>If you’re interested, let’s talk. Submit your resume to hey[at]anteanstudios[dot]com. </p>  
     </div>
 
 

@@ -8,36 +8,14 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
-    height: 500px;
+    height: 100%;
     padding: 190px 10%;
 }
-    h3 {
-        margin-bottom: 90px;
-        color: gray;
-        align-content: center;
-        font-size: 1.5em;
-        text-transform: uppercase;
-    }
-    
-    h2{
-        font-size: 2.5em;
-    }
     
 @media only screen and (min-width: 768px) {
   .top-page {
     padding: 190px 10%;
   }
-  .top-page h1{
-    font-size: 5.6rem;
-  }
-    h3{
-        font-size: 3.5em;
-    }
-}   
-    b {
-        font-weight: 600;
-        text-transform: uppercase;
-    }
 </style>
 <?php include("menu.php"); ?>
 <div class="top-page">
@@ -46,7 +24,7 @@
             <p>Published on: November 14th, 2016 • <b style="color:red">1 MIN READ</b></p>
 	</div>
     <div class="container">
-        <h3>WE ARE PLANNING ON A DATE IN EARLY 2017 TO START PROPEURBS. CHECK BACK FOR UPDATES OR FOLLOW US ON INSTAGRAM TO STAY UP TO DATE WITH THIS PROJECT <a href="http://instagram.com/anteanstudios" target="_blank">@ANTEANSTUDIOS</a> </h3>
+        <h2>WE ARE PLANNING ON A DATE IN EARLY 2017 TO START PROPEURBS. CHECK BACK FOR UPDATES OR FOLLOW US ON INSTAGRAM TO STAY UP TO DATE WITH THIS PROJECT <a href="http://instagram.com/anteanstudios" target="_blank">@ANTEANSTUDIOS</a> </h2> <br>
             
             <!-- featured article -->
         <img src="img/journal/workshop-propeurbs.jpg" width="100%"><br><br>

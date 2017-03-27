@@ -8,40 +8,20 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
-    height: 500px;
+    height: 100%;
     padding: 190px 10%;
 }
-    h3 {
-        margin-bottom: 90px;
-        color: gray;
-        align-content: center;
-        font-size: 1.5em;
-        text-transform: uppercase;
-    }
+   
     
-    h2{
-        font-size: 2.5em;
-    }
-    
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .top-page {
     padding: 190px 10%;
   }
-  .top-page h1{
-    font-size: 5.6rem;
-  }
-    h3{
-        font-size: 3.5em;
-    }
-}   
-    b {
-        font-weight: 600;
-        text-transform: uppercase;
-    }
+
 </style>
 <?php include("menu.php"); ?>
 <div class="top-page">
-            <h1>2017 Communication/Public Relation Summer Internship</h1> 
+            <h1>2017 Communication Major Summer Internship</h1> 
             <h2>Join the best team in town</h2>
             <p>Published on: March 24th, 2017 • <b style="color:red">2 MIN READ</b></p>
 	</div>

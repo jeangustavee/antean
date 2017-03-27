@@ -11,39 +11,12 @@
     height: 100%;
     padding: 190px 10%;
 }
-    h3 {
-        margin-bottom: 90px;
-        color: gray;
-        align-content: center;
-        font-size: 1.5em;
-        text-transform: uppercase;
-    }
     
-    h2{
-        font-size: 2.5em;
-    }
     
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .top-page {
     padding: 190px 10%;
   }
-  .top-page h1{
-    font-size: 5.6rem;
-  }
-    h3{
-        font-size: 3.5em;
-    }
-}   
-    b {
-        font-weight: 600;
-        text-transform: uppercase;
-    }
-    dropcap {
-    float: left;
-    width: 0.7em;
-    font-size: 400%;
-    line-height: 80%;
-    color: gray;
 }
 </style>
 <?php include("menu.php"); ?>
@@ -54,7 +27,7 @@
             <p>Published on: March 25th, 2017 • <b style="color:red">3 MIN READ</b></p>
 	</div>
      <div class="container">
-        <h3> &quot; For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc. &rdquo; </h3>
+        <h4> &quot; For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc. &rdquo; </h4><br>
         
         <p><b>Everything starts with a small story</b></p><br><br>
 	

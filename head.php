@@ -37,6 +37,7 @@ Thanks for checking our codes out
     <link rel="stylesheet" href="css/home_works.css"> <!-- Home Portfolio css -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
     <link rel="icon" type="image/png" sizes="32x32" href="img/antean_favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Anton|Poppins:330" rel="stylesheet"> 
   	
 	<title>Antean Studios | Full service advertising and marketing | Jacksonville, Florida</title>
     
@@ -51,4 +52,10 @@ Thanks for checking our codes out
 </script>
    
     <script id="dsq-count-scr" src="//anteanstudios.disqus.com/count.js" async></script>
+    
+    <?php
+        if($_SERVER['REQUEST_URI'] == "/send") {
+            include ("fb-send-pixel.php");
+        }
+    ?>    
 </head>

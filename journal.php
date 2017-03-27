@@ -59,60 +59,40 @@ img {
              <hr><br>
              
              
-             <div class="col span_1_of_2">
+             <div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/jobs-summer.jpeg" width="100%"><br>
         <div class="journaltext">
         <h3>GRAPHIC DESIGN SUMMER 2017 INTERNSHIP</h3>
-        <p><a href="graphic-design-internship-summer-2017-jacksonville">We are looking for a rockstar Graphic Design intern to work with our Creative Department.... </a> </p></div>
+        <p><a href="graphic-design-internship-summer-2017-jacksonville">We are looking for a rockstar Graphic Design intern... </a> </p></div>
 	</div>
              
-             <div class="col span_1_of_2">
+             <div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/2017_winter_internship.jpg" width="100%"><br>
         <div class="journaltext">
         <h3>COMMUNICATION - PR SUMMER INTERNSHIP</h3>
-            <p><a href="communication-pr-internship-summer-2017-jacksonville">We are looking for a rockstar Communication/Public Relation major intern to work with our Marketing Department... </a> </p></div>
+            <p><a href="communication-pr-internship-summer-2017-jacksonville">We are looking for a rockstar Communication major intern... </a> </p></div>
 	</div>
             </div>
              
              <div class="section group">
              <br>
-	<div class="col span_1_of_2">
+	<div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/propeurbs/workshop-propeurbs.jpg" width="100%"><br>
         <div class="journaltext">
         <h3>PROPEURBS WORKSHOP</h3>
-            <p><a href="propeurbs_workshop">PROPEURBS is a one-day workshop for creative entrepreneurs, small business owners and anyone looking to Spark Results...</a> </p></div>
+            <p><a href="propeurbs_workshop">PROPEURBS is a one-day workshop for creative entrepreneurs...</a> </p></div>
 	</div>
              
-	<div class="col span_1_of_2">
+	<div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/12.jpg" width="100%"><br>
         <div class="journaltext">
         <h3>CELEBRATING OUR NEW WEBSITE</h3>
-            <p><a href="website_celebration">We also have to keep in mind that this new website is essentially a modern website with a minimal aspect...</a></p></div>
+            <p><a href="website_celebration">This new website is essentially a modern website with a minimal aspect...</a></p></div>
         
 	</div>
            
            
-           
-           
-           
-           
-           
-           
-           
-    
-             
-             
-             
-          
-          
-          
-          
-          
-           
-           
-           
-           
-           
+ 
             </div>   
             <br><br><br>
             
