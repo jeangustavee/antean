@@ -122,7 +122,7 @@ img {
 					  </div>
   <div class="col-submit">
     <input type="submit" name="submit" value="Submit">
-  </div>
+      </div> 
 </form>
 
     </div>

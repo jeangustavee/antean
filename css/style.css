@@ -843,13 +843,12 @@ form
   }
 }
 
-form > div > label
+form > div > label 
 {
   display: block;
   padding: 20px 20px 10px;
   vertical-align: top;
-  font-family: Source Sans Pro, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
   color: #939393;
@@ -884,10 +883,11 @@ form > div > label > input
   outline: none;
   border-radius: 3px;
   background: transparent;
-  font-size: 14px;
+  font-size: 1.15em;
   font-weight: 200;
   opacity: .66;
   transition: opacity .3s, box-shadow .3s;
+    text-transform: uppercase;
 }
 
 form > div.col-submit {
@@ -929,7 +929,7 @@ form > div > label > select
   background: transparent;
   border: none;
   outline: none;
-  font-size: 14px;
+  font-size: 1.5em;
   font-weight: 200;
   opacity: .33;
 }
@@ -947,9 +947,9 @@ textarea {
     margin: 5px -5px 0;
     padding: 7px 5px 3px;
     font-size: 1.5em;
-    font-weight: 200;
     opacity: .66;
     transition: opacity .3s, box-shadow .3s;
+    text-transform: uppercase;
 	}
 /* CSS for input button */
 @media (min-width: 800px) {
@@ -962,13 +962,12 @@ textarea {
 input[type=submit] {
   border: 1px solid #E4E4E4;
   background: #053950;
-  font-size: 1.5em;
+  font-size: 16px;
   color: #fff;
   padding: 1em;
   display: block;
   width: 100%;
   cursor: pointer;
-  border: 0;
   border-radius: 5px;
   text-transform: uppercase;
 }
