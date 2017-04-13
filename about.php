@@ -15,9 +15,9 @@
     <div class="container-about">
         <h1>We Spark Results</h1>
         <img src="img/antean_interior.jpg" width="100%"><br><br>
-        <p>Antean Studios is a full service advertising firm based in Jacksonville, FL. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
+        <p>Antean Studios is a digital marketing firm based in Jacksonville, FL focusing on graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
 
-        <p>Our team includes designers, writers, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
+        <p>Our team includes graphic designers, writers, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
     </div>
     
     <div class="container-red">
@@ -33,30 +33,19 @@
 	<p>Advertising<br>
 Art Direction<br>
 Branding<br>
-Consultancy<br>
-Concept Development<br>
-Content Development<br>
 Commercials<br>
-Design<br>
-Website<br>
-Writing<br>
-Environmental<br>
-Event Design<br>
+Graphic Design<br>
+Website Design<br>
 Packaging<br>
 	</div>
             
 	<div class="col span_1_of_3">
-	<p>Commercials<br>
-Curation<br>
 Exhibition<br>
 Film & Video<br>
-Furniture<br>
 Identity<br>
-Installation<br>
 Interactive<br>
 Social Media Strategy<br>
 Signage<br>
-Naming</p>
 Print<br>
 	</div>
             
@@ -74,7 +63,7 @@ Print<br>
 	<p>Although we'd love to meet you, we are a small studio and can't do visits or tours. We do host "Salon Nights," where three designers can visit the studio and share their work and get feedback on portfolios.</p>
 	</div>
 	<div class="col span_1_of_3">
-	<p>Availability:<br>November 18th, 2016</p>
+	<p><b>Availability:</b><br>Coming soon</p>
 	</div>
 </div>
         
@@ -86,7 +75,7 @@ Print<br>
 	<p>Please email us a link to you website at hey@anteanstudios.com. Please put "Internship Application: Your Name Here" as the title. Please keep in mind that we have a waiting list for internships. However we'd still love to see your work as occasionally we have spots open up sooner.</p>
 	</div>
 	<div class="col span_1_of_3">
-	<p>Availability:<br>Design Internship<br>Production Internship<br>Business Development Internship<br></p>
+        <p><b>Availability:</b><br>Graphic Design Internship<br>Social Media Dev. Internship<br>Communication/PR Internship<br></p>
 	</div>
 </div>
         
@@ -98,7 +87,7 @@ Print<br>
 	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us the link of your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the title.</p>
 	</div>
 	<div class="col span_1_of_3">
-	<p>Availability:<br>Receptionist<br>Designer<br></p>
+        <p><b>Availability:</b><br>Receptionist<br>Designer<br></p>
 	</div>
 </div>
         
@@ -110,13 +99,13 @@ Print<br>
 	<p>Unfortunately we can't respond to every single question, as we are a small studio. However we will do our best to answer.</p>
 	</div>
 	<div class="col span_1_of_3">
-	Availability:<br>Email us hey@anteanstudios.com
+        <b>Availability:</b><br>Email us hey@anteanstudios.com
 	</div>
 </div>
         
         <div class="instagram">
     <h1>We start on Instagram first</h1>
-    <p>We always spread the news on Instagram before everywhere else.<br> Join our journey by hashtaging us #anteanstudios</p><br><br>
+    <p>We always spread the news on Instagram before everywhere else. #anteanstudios</p><br><br>
     <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/582a4164d889503a8f0f063ee106505d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe></div> 
     </div>
       

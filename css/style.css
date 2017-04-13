@@ -597,7 +597,7 @@ main p {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: 1em;
     color: #fff;
     line-height: normal;
@@ -664,12 +664,16 @@ main p {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    font-size: 1.5rem;
   }
 
 @media only screen and (max-width: 768px) {
   .container-about {
     padding: 125px 10%;
   }
+    .container-about p{
+        font-size: 1.2rem;
+    }
   .container-about h1{
     font-size: 1.7em;
   }
@@ -791,7 +795,7 @@ div.panel.show {
 }
 button.accordion-red:after {
     content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 1.5em;
+    font-size: 13px;
     color: #fff;
     float: right;
     margin-left: 5px;
@@ -1001,16 +1005,21 @@ button1:hover {
     position: relative;
     padding: 120px 10%;
     width: ;
-    font-size: 1.5em;
+    font-size: 1em;
     margin-bottom: 1em;
     color: #000;
     line-height: normal;
     text-align: center;
 }
 
+.instagram h1 {
+    font-size: 2rem;
+}
+
 @media only screen and (min-width: 768px) {
   .instagram {
     padding: 125px 10%;
+    font-size: 2rem;
   }
   .instagram h1{
     font-size: 3.6rem;

@@ -47,7 +47,7 @@
 	<main>
 		<h1></h1>
         <p>Moringa Lakay is a natural product imported from Haiti. We are happy to be the agency developping the brand in the US.<br>
-           <a href="moringalakay"> <button1 type="button">CASE STUDY</button1></a> </p>
+           <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
 				<section class="section section--flow">
@@ -78,7 +78,7 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/staro_thumbnail.jpg)"></div>
 						<h2 class="title">star-o</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we had fun doing and we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="nsite">here.</a></span></p>
+						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we had fun doing and we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="starto">here.</a></span></p>
 					</div>
 				</section>
 

@@ -67,6 +67,8 @@
         </div>    
     </div>
        
+       
+       
       <div class="container-red">
          <h1>STUDENTS &#9787; --INTERNSHIP</h1>
           <button class="accordion-red">Are you hiring students?</button>

@@ -25,21 +25,21 @@ Thanks for checking our codes out
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Antean Studios is a full service advertising firm based in Jacksonville, FL that creates identities, commercials, websites, apps, films, books and objects for clients, audiences and ourselves. ">
-    <meta property="og:description" content="Antean Studios is a full service advertising firm based in Jacksonville, FL that creates identities, commercials, websites, apps, films, books and objects for clients, audiences and ourselves.">
+    <meta name="description" content="Antean Studios is a digital agency based in Jacksonville, FL specializing in graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves. ">
+    <meta property="og:description" content="Antean Studios is a digital agency based in Jacksonville, FL specializing in graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves.">
     <meta name="keywords" content="Jacksonville, graphic design, web design, ui design, ux design, advertising, marketing, digital marketing, growth">
     <meta property="og:url" content="http://anteanstudios.com//">
 
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700|Merriweather:400,700' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Anton|Poppins:330" rel="stylesheet">
 
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
     <link rel="stylesheet" href="css/home_works.css"> <!-- Home Portfolio css -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
     <link rel="icon" type="image/png" sizes="32x32" href="img/antean_favicon.png">
-    <link href="https://fonts.googleapis.com/css?family=Anton|Poppins:330" rel="stylesheet"> 
+     
   	
-	<title>Antean Studios | Full service advertising and marketing | Jacksonville, Florida</title>
+	<title>Antean Studios | Graphic design, web design and digital marketing agency | Jacksonville, Florida</title>
     
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
