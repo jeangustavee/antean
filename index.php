@@ -45,7 +45,6 @@
 
 <body>
 	<main>
-		<h1></h1>
         <p>Moringa Lakay is a natural product imported from Haiti. We are happy to be the agency developping the brand in the US.<br>
            <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
