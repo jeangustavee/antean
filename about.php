@@ -102,11 +102,6 @@ Print<br>
         <b>Availability:</b><br>Email us hey@anteanstudios.com
 	</div>
 </div>
-        
-        <div class="instagram">
-    <h1>We start on Instagram first</h1>
-    <p>We always spread the news on Instagram before everywhere else. #anteanstudios</p><br><br>
-    <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/582a4164d889503a8f0f063ee106505d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe></div> 
     </div>
       
     
