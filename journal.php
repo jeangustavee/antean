@@ -62,15 +62,20 @@ img {
              <div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/jobs-summer.jpeg" width="100%"><br>
         <div class="journaltext">
-        <h3>GRAPHIC DESIGN SUMMER 2017 INTERNSHIP</h3>
-        <p><a href="graphic-design-internship-summer-2017-jacksonville">We are looking for a rockstar Graphic Design intern... </a> </p></div>
+        <a href="graphic-design-internship-summer-2017-jacksonville"><h3>GRAPHIC DESIGN SUMMER 2017 INTERNSHIP</h3>
+        <p>We are looking for a rockstar Graphic Design intern...  </p>
+            </a>
+            </div>
 	</div>
              
              <div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/2017_winter_internship.jpg" width="100%"><br>
         <div class="journaltext">
+            <a href="communication-pr-internship-summer-2017-jacksonville">
         <h3>COMMUNICATION - PR SUMMER INTERNSHIP</h3>
-            <p><a href="communication-pr-internship-summer-2017-jacksonville">We are looking for a rockstar Communication major intern... </a> </p></div>
+            <p>We are looking for a rockstar Communication major intern...  </p>
+                </a>
+                </div>
 	</div>
             </div>
              
@@ -79,20 +84,23 @@ img {
 	<div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/propeurbs/workshop-propeurbs.jpg" width="100%"><br>
         <div class="journaltext">
+            <a href="propeurbs_workshop">
         <h3>PROPEURBS WORKSHOP</h3>
-            <p><a href="propeurbs_workshop">PROPEURBS is a one-day workshop for creative entrepreneurs...</a> </p></div>
+            <p>PROPEURBS is a one-day workshop for creative entrepreneurs... </p>
+                </a>
+                </div>
 	</div>
              
 	<div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/12.jpg" width="100%"><br>
         <div class="journaltext">
+            <a href="website_celebration">
         <h3>CELEBRATING OUR NEW WEBSITE</h3>
-            <p><a href="website_celebration">This new website is essentially a modern website with a minimal aspect...</a></p></div>
+            <p>This new website is essentially a modern website with a minimal aspect...</p>
+                </a>
+                </div>
         
 	</div>
-           
-           
- 
             </div>   
             <br><br><br>
             

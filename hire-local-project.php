@@ -40,7 +40,11 @@
 
 </p><br><br>
 
+<<<<<<< HEAD
          <h4>&quot; We all have at least one small story to tell. &quot;</h4><br>
+=======
+         <h2>&quot; We all have at least one small story to tell.&quot;</h2><br>
+>>>>>>> origin/master
          
 <p>After all, I still feel like there isn’t sufficient impacts as there are still people here struggling to find a job — mostly creative people. To continue the work, I’m starting a project entitled “HIRE LOCAL” that will focus on hiring local talents and sharing stories of small business owners in Jacksonville, Florida.
 </p><br>
@@ -63,7 +67,11 @@
    <br>
    <p>If you would like to participate in this project, please <a href="hirelocal/index"> Apply here</a>. Or if you would like to nominate someone, just reach out to them and send them this link http://anteanstudios.com/hirelocal.</p><br>
    
+<<<<<<< HEAD
    <p><b>Please apply by May 20.</b> We will select our first 25 stories by May 25.</p><br>
+=======
+   <p><b>Please apply by May 20th.</b> We will select our first 25 stories by the 25th of May.</p><br>
+>>>>>>> origin/master
    
    <p>Please share this with your friends. I really appreciate your time and your effort.</p><br>
    <p>Very best,</p><p>Jean</p>

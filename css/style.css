@@ -993,26 +993,14 @@ button1:hover {
     font-size: 1em;
 }
 
-.instagram {
-    position: relative;
-    padding: 120px 10%;
-    width: ;
-    font-size: 1em;
-    margin-bottom: 1em;
-    color: #000;
-    line-height: normal;
-    text-align: center;
-}
+
 
 .instagram h1 {
     font-size: 2rem;
 }
 
 @media only screen and (min-width: 768px) {
-  .instagram {
-    padding: 125px 10%;
-    font-size: 2rem;
-  }
+
   .instagram h1{
     font-size: 3.6rem;
   }

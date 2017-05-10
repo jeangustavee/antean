@@ -148,37 +148,37 @@
   <div class="col-1">
       <label>
       NAME
-      <input name="name" placeholder="What is your name?" tabindex="1" required="" />
+      <input name="name" placeholder="Type here" tabindex="1" required="" />
       </label>
   </div>
   <div class="col-1">
     <label>
       EMAIL
-      <input name="email" placeholder="Your email here" tabindex="2" />
+      <input name="email" placeholder="Type here" tabindex="2" />
     </label>
   </div>
     <div class="col-1">
     <label>
       PHONE NUMBER
-      <input name="phone" placeholder="Your phone #" tabindex="3" />
+      <input name="phone" placeholder="Type here" tabindex="3" />
     </label>
   </div>
   <div class="col-1">
     <label>
       TITLE AND COMPANY
-      <input name="title" placeholder="Your company name and your position?" tabindex="4" />
+      <input name="title" placeholder="Type here" tabindex="4" />
     </label>
   </div>
   <div class="col-1">
     <label>
       WEBSITE/SOCIAL
-      <input name="website" placeholder="Your website and social media link" tabindex="5" />
+      <input name="website" placeholder="Type here" tabindex="5" />
     </label>
   </div>
   <div class="col-1">
       <label>
       YEARS IN BUSINESS
-      <input name="years" placeholder="How long have you been in your field?" tabindex="6" />
+      <input name="years" placeholder="Type here" tabindex="6" />
       </label>
   </div>
   <div class="col-1">
@@ -204,7 +204,7 @@
             <div class="col-1">
             <label>
                 SHORT BIO
-                <textarea name="bio" placeholder="Short bio here" tabindex="9"></textarea>
+                <textarea name="bio" placeholder="Type here" tabindex="9"></textarea>
                 </label>
             </div>
             <div class="col-1">

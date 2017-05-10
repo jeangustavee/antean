@@ -15,7 +15,7 @@
 					<ul class="primary-nav">
 						<li><a href="/">Home</a></li>
 						<li><a href="journal">Journal</a></li>
-						<li><a href="about">The Studio</a></li>
+						<li><a href="studio">The Studio</a></li>
 						<li><a href="press">Press</a></li>
 						<li><a href="answers">Answers</a></li>
 						<li><a href="newbusinesses">New Businesses</a></li>

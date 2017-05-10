@@ -25,7 +25,11 @@
 
     <br><br>
 
+<<<<<<< HEAD
         <p>If you are writing an article about us online, you are free to use images of our work if you use proper credits. If you would like to feature us, please <a href="mailto:hey@anteanstudios.com">email</a> us to request hi-res images from any of the pages on our website. </p><br><br>
+=======
+        <p>If you are writing an article about us online, you are free to use images of our work if you use proper credits. If you would like to feature us, please <a href="mailto:hey@anteanstudios.com">email us</a> to request hi-res images from any of the pages on our website. </p><br><br>
+>>>>>>> origin/master
 
         <h1>Sometimes we wish<br> it could just be all about us</h1><br><br>
         <!--

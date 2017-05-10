@@ -57,7 +57,7 @@
         <hr>
         <button class="accordion">Do you guys do everything in-house?</button>
 <div class="panel">
-    <p><b>Jean.</b> Yes. That was one of our goals. Most design firms would outsource their projects. Us, --we like to get very involved. Since we are a small studio, we are forced to work with partners and other freelancers, but they all based in Jacksonville. Most of the time they come to our studio and we are still very involved. We always make sure we communicate every little details with the client.</p>
+    <p><b>Jean.</b> Yes. That was one of our goals. Most design firms would outsource their projects. Us, --we like to get very involved. Since we are a small studio, we are forced to work with partners and other freelancers, but they are all based in Jacksonville. Most of the time they come to our studio and we are still very involved. We always make sure we communicate every little details with the client.</p>
         </div>
         
         <hr>
