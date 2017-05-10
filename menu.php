@@ -18,7 +18,7 @@
 						<li><a href="studio">The Studio</a></li>
 						<li><a href="press">Press</a></li>
 						<li><a href="answers">Answers</a></li>
-						<li><a href="newbusiness">New Business</a></li>
+						<li><a href="newbusinesses">New Businesses</a></li>
 					</ul>
 				</nav>
 			</div>

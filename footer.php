@@ -4,8 +4,8 @@
         we love good things and great design.<br>
        Say hi to us hey@anteanstudios.com <br>
         &#8659;  <br>
-        <a href="http://facebook.com/anteanstudios" target="_blank">Facebook</a> | <a href="http://instagram.com/anteanstudios" target="_blank">Instagram</a> | <a href="http://twitter.com/anteanstudios" target="_blank">Twitter</a> | <a href="https://www.tumblr.com/blog/anteanstudios" target="_blank">Tumblr</a> <br>
-        © ANTEAN STUDIOS - All copyright 2016</center></p>
+        <a href="http://facebook.com/anteanstudios" target="_blank">Facebook</a> | <a href="http://instagram.com/anteanstudios" target="_blank">Instagram</a> | <a href="http://twitter.com/anteanstudios" target="_blank">Twitter</a> | <a href="https://anteanstudios.tumblr.com" target="_blank">Tumblr</a> <br>
+        © ANTEAN STUDIOS - All copyright 2016-2017</center></p>
     
     </div>    
     

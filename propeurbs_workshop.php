@@ -32,7 +32,7 @@
         <p>PROPEURBS is a one-day workshop for creative entrepreneurs, small business owners and anyone looking to Spark Results. We will create a Business Plan, define your Brand, master Social Media tools and provide the right tools to raise capital for your business. 
  </p><br>
 
-<p>The workshop is designed for the dreamers and the do-ers out there. Whether you have already started a business or blog, or you have tiny seed you’re looking to plant and develop in the years to come, this workshop is for you. Or, perhaps you’ve had a business for many years but might like to revamp and freshen up the brand.
+<p>The workshop is designed for the dreamers and the do-ers out there. Whether you have already started a business or blog, or you have a tiny seed you’re looking to plant and develop in the years to come, this workshop is for you. Or, Perhaps you’ve had a business for many years and might want to revamp and freshen your brand? This workshop is for you as well.
 </p><br>
 
 <b>Here are some elements of the day:
