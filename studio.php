@@ -84,11 +84,7 @@ Print<br>
 	<h3>Applying for Positions</h3>
 	</div>
 	<div class="col span_1_of_3">
-<<<<<<< HEAD:about.php
-	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us the link of your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the subject.</p>
-=======
 	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us a link to your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the subject.</p>
->>>>>>> origin/master:studio.php
 	</div>
 	<div class="col span_1_of_3">
         <p><b>Availability:</b><br>Receptionist<br>Designer<br></p>

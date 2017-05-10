@@ -45,11 +45,7 @@
 
 <body>
 	<main>
-<<<<<<< HEAD
-        <p>The First Real Estate Book of Haiti is a book written by author and professor Jacques Guillaume. We designed the book cover for him.<br>
-=======
         <p>The First Real Estate Book of Haiti is a real estate book written by author and professor Jacques Guillaume. We conceptualized and developped the book cover.<br>
->>>>>>> origin/master
            <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
@@ -73,11 +69,8 @@
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/moringa_thumbnail.jpg)"></div>
 						<h2 class="title title--left">moringa lakay</h2>
-<<<<<<< HEAD
+
 						<p class="text text--left"><span class="deco-bg deco-bg--color-3">We approached the Moringa Lakay project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
-=======
-						<p class="text text--left"><span class="deco-bg deco-bg--color-3">We approached the The Moringa Lakay project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
->>>>>>> origin/master
 					</div>
 				</section>
 
@@ -85,11 +78,8 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/staro_thumbnail.jpg)"></div>
 						<h2 class="title">star-o</h2>
-<<<<<<< HEAD
+
 						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we wish we could keep working on, but the project had to stop due to some investment issues. However, feel free to take a look at the entire brand development <a href="starto">Check here.</a></span></p>
-=======
-						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="starto">here.</a></span></p>
->>>>>>> origin/master
 					</div>
 				</section>
 
@@ -112,11 +102,9 @@
 
     <div class="clients">
         <h1>Selected Clients and Collaborators</h1> 
-<<<<<<< HEAD
-        <p>We love our clients – collaborators – programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
-=======
+
         <p>We love our clients - collaborators – programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
->>>>>>> origin/master
+
         <br><br>
         <div class="section group">
 	<div class="col span_1_of_4">
