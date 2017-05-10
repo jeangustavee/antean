@@ -45,7 +45,7 @@
 
 <body>
 	<main>
-        <p>Moringa Lakay is a natural product imported from Haiti. We are happy to be the agency developping the brand in the US.<br>
+        <p>The First Real Estate Book of Haiti is a real estate book written by author and professor Jacques Guillaume. We conceptualized and developped the book cover.<br>
            <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
@@ -53,7 +53,7 @@
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/nousho_thumbnail.jpg)"></div>
 						 <h2 class="title title--left">nousho</h2>
-						<p class="text text--left"><span class="deco-bg deco-bg--color-1">Nousho is an advanced eco-friendly dry cleaning company. We were hired to create their logo, business cards and website. The project is still in progress as our team developping the website now.<br><a href="nousho">view case study>></a> </span></p>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-1">Nousho is an advanced eco-friendly dry cleaning company. We were hired to create their logo, business cards and website. The project is still in progress as our team develops the website now.<br><a href="nousho">view case study>></a> </span></p>
 					</div>
 				</section>
 
@@ -61,7 +61,7 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/nsite_thumbnail.jpg)"></div>
 						<h2 class="title">nsite</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup helping fund African American businesses. We conceptualized a simple but bold letter based logo for them in blanck and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
+						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup company helping to fund African American businesses. We conceptualized a simple but bold letter based logo for them in black and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
 					</div>
 				</section>
 
@@ -69,7 +69,7 @@
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/moringa_thumbnail.jpg)"></div>
 						<h2 class="title title--left">moringa lakay</h2>
-						<p class="text text--left"><span class="deco-bg deco-bg--color-3">We apprpoched the The Moringa Lakay project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-3">We approached the The Moringa Lakay project by choosing colors that match the brand psychology and we created some dots and lines to portray the actual product message. <br><a href="moringalakay">view case study>></a></span></p>
 					</div>
 				</section>
 
@@ -77,7 +77,7 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/staro_thumbnail.jpg)"></div>
 						<h2 class="title">star-o</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we had fun doing and we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="starto">here.</a></span></p>
+						<p class="text"><span class="deco-bg deco-bg--color-4">Star-O is a project that we wish we could keep on working on. Unfortunately, due to some investment issues, the project had to stop. You can take a look at the entire brand development <a href="starto">here.</a></span></p>
 					</div>
 				</section>
 
@@ -85,7 +85,7 @@
 					<div class="content">
 						<div id="frag-2" class="fragment-wrap fragment-wrap--right" style="background-image: url(img/viiatours_thumnail.jpg)"></div>
 						<h2 class="title title--left">viiatours</h2>
-						<p class="text text--left"><span class="deco-bg deco-bg--color-5">VIIATOURS is an excursion company based in Dominican Republic. We created their logo and developped their e-commerce website. <br><a href="viia_tours">view case study>></a> </span></p>
+						<p class="text text--left"><span class="deco-bg deco-bg--color-5">VIIATOURS is an excursion company based in the Dominican Republic. We created their logo and developed their e-commerce website. <br><a href="viia_tours">view case study>></a> </span></p>
 					</div>
 				</section>
 
@@ -93,14 +93,14 @@
 					<div class="content">
 						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/citytax_thumbnail.jpg)"></div>
 						<h2 class="title">city tax</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-6">We have been working with City Tax since the begining of their journey. We are thrilled to be the one still handling their branding and marketing until now. <br><a href="city_tax">view case study>></a></span></p>
+						<p class="text"><span class="deco-bg deco-bg--color-6">We have been working with City Tax since the begining of their journey. We are thrilled to be the one still handling their branding and marketing to this day. <br><a href="city_tax">view case study>></a></span></p>
 					</div>
 				</section>
 
 
     <div class="clients">
         <h1>Selected Clients and Collaborators</h1> 
-        <p>We love our clients -- collaborators– programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
+        <p>We love our clients - collaborators – programmers, designers and architects. Below we’ve shown the list of our most trusted partners and clients.</p>
         <br><br>
         <div class="section group">
 	<div class="col span_1_of_4">
