@@ -27,7 +27,7 @@
             <p>Published on: March 25th, 2017 • <b style="color:red">3 MIN READ</b></p>
 	</div>
      <div class="container">
-        <h4> &quot; For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc. &rdquo; </h4><br>
+        <h4> &quot; For this project, I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc. &rdquo; </h4><br>
         
         <p><b>Everything starts with a small story</b></p><br><br>
 	
@@ -36,17 +36,17 @@
  </p><br>
         
 
-<p>Since I couldn’t find a job, I decided to start my own company. I pulled out some resources and managed to raise capitals to launch Antean Studios. Moreover, that new adventure gives me the opportunity to make bigger impacts in the Jacksonville business community. One of my main incentives is to only hire people in Jacksonville. Whether it’s a long or short term contract, Jacksonville based freelancers come first for my company. There is a significant need to accentuate Jacksonville local talents. If there’s one thing I’m proud of now is that, since the first day, I’ve been managing to keep every single project in Jacksonville.
+<p>Since I couldn’t find a job, I decided to start my own company. I pulled out some resources and managed to raise capitals to launch Antean Studios. Moreover, that new adventure gives me the opportunity to make bigger impacts in the Jacksonville business community. One of my main incentives is to only hire people in Jacksonville. Whether it’s a long or short term contract, Jacksonville based freelancers come first for my company. There is a significant need to accentuate Jacksonville local talents. If there’s one thing I’m proud of now it's that, since the first day, I’ve been managing to keep every single project in Jacksonville.
 
 </p><br><br>
 
-         <h2>&quot; We all have at least<br> one small story to tell.&quot;</h2><br>
+         <h4>&quot; We all have at least one small story to tell. &quot;</h4><br>
          
 <p>After all, I still feel like there isn’t sufficient impacts as there are still people here struggling to find a job — mostly creative people. To continue the work, I’m starting a project entitled “HIRE LOCAL” that will focus on hiring local talents and sharing stories of small business owners in Jacksonville, Florida.
 </p><br>
-       <p>For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc.</p><br>
+       <p>For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc.
        
-       <p>I want to hear from folks with stories to tell and that are able to make impacts on others’ lives. I want to know what pushed you to launch your business. I want to know how you made it in Jacksonville. I want to know about your triumphs and struggles. I want to hear from your point of view of joining the movements of #hirelocalinjax.</p>
+       I want to hear from folks with stories to tell and that are able to make impacts on others’ lives. I want to know what pushed you to launch your business. I want to know how you made it in Jacksonville. I want to know about your triumphs and struggles. I want to hear from your point of view of joining the movements of #hirelocalinjax.</p>
        
         <br>
          
@@ -63,7 +63,7 @@
    <br>
    <p>If you would like to participate in this project, please <a href="hirelocal/index"> Apply here</a>. Or if you would like to nominate someone, just reach out to them and send them this link http://anteanstudios.com/hirelocal.</p><br>
    
-   <p><b>Please apply by May 15.</b> We will select our first 25 stories by the 25th of May.</p><br>
+   <p><b>Please apply by May 20.</b> We will select our first 25 stories by May 25.</p><br>
    
    <p>Please share this with your friends. I really appreciate your time and your effort.</p><br>
    <p>Very best,</p><p>Jean</p>

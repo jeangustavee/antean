@@ -16,7 +16,7 @@
         <h1>We Spark Results</h1>
         <img src="img/antean_interior.jpg" width="100%"><br><br>
         <p>Antean Studios is a digital marketing firm based in Jacksonville, FL focusing on graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
-
+        
         <p>Our team includes graphic designers, writers, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
     </div>
     
@@ -72,7 +72,7 @@ Print<br>
 	<h3>Applying for Internship</h3>
 	</div>
 	<div class="col span_1_of_3">
-	<p>Please email us a link to you website at hey@anteanstudios.com. Please put "Internship Application: Your Name Here" as the title. Please keep in mind that we have a waiting list for internships. However we'd still love to see your work as occasionally we have spots open up sooner.</p>
+	<p>Please email us a link to your website at hey@anteanstudios.com. Please put "Internship Application: Your Name Here" as the subject. Please keep in mind that we have a waiting list for internships. However, we'd still love to see your work as occasionally we have spots open up sooner.</p>
 	</div>
 	<div class="col span_1_of_3">
         <p><b>Availability:</b><br>Graphic Design Internship<br>Social Media Dev. Internship<br>Communication/PR Internship<br></p>
@@ -84,7 +84,7 @@ Print<br>
 	<h3>Applying for Positions</h3>
 	</div>
 	<div class="col span_1_of_3">
-	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us the link of your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the title.</p>
+	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us the link of your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the subject.</p>
 	</div>
 	<div class="col span_1_of_3">
         <p><b>Availability:</b><br>Receptionist<br>Designer<br></p>
@@ -96,7 +96,7 @@ Print<br>
 	<h3>Student Questions</h3>
 	</div>
 	<div class="col span_1_of_3">
-	<p>Unfortunately we can't respond to every single question, as we are a small studio. However we will do our best to answer.</p>
+	<p>Unfortunately we can't respond to every single question. However, we will do our best to answer.</p>
 	</div>
 	<div class="col span_1_of_3">
         <b>Availability:</b><br>Email us hey@anteanstudios.com

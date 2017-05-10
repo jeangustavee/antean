@@ -53,8 +53,8 @@ main {
   position: relative;
   z-index: 2;
   /* fix bug on iOS */
-  height: 100%;
-  overflow-y:auto;
+  height: 500px;
+  overflow-y:visible;
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
   margin-bottom: 200px;
@@ -77,6 +77,7 @@ main {
   -moz-transition-timing-function: cubic-bezier(0.91, 0.01, 0.6, 0.99);
   transition-timing-function: cubic-bezier(0.91, 0.01, 0.6, 0.99);
 }
+
 main p {
   font-family: 'Poppins', sans-serif;
   color: white;
@@ -85,10 +86,10 @@ main p {
   line-height: normal;
   float: left;
   text-align: left;
-  padding: 10px;
+  padding: -10px;
   height: auto;
-  font-size: 1.2em;
-  background-color: rgb(237, 27, 36, 0.8);
+  font-size: 1em;
+  background-color: rgb(237,27,36, 0.6);
 }
 .navigation-is-open main {
   -webkit-transform: translateX(100%);
@@ -106,8 +107,7 @@ main p {
   }
   main p {
     font-size: 1.5em;
-    background-color: transparent;
-      
+    background-color: rgb(237,27,36, 0);
   }
 }
 
@@ -334,8 +334,9 @@ main p {
   margin: 1.6em 0;
 }
 .nav .primary-nav a {
-  font-size: 2em;
+  font-size: 1.5em;
   color: white;
+  line-height: 0.5em;
   display: inline-block;
 }
 .nav .primary-nav a.selected {
@@ -386,6 +387,7 @@ main p {
   }
   .nav .primary-nav a {
     font-size: 2em;
+    line-height: 1em;
   }
   .nav .contact-info {
     margin-top: 120px;
@@ -991,14 +993,26 @@ button1:hover {
     font-size: 1em;
 }
 
-
+.instagram {
+    position: relative;
+    padding: 120px 10%;
+    width: ;
+    font-size: 1em;
+    margin-bottom: 1em;
+    color: #000;
+    line-height: normal;
+    text-align: center;
+}
 
 .instagram h1 {
     font-size: 2rem;
 }
 
 @media only screen and (min-width: 768px) {
-
+  .instagram {
+    padding: 125px 10%;
+    font-size: 2rem;
+  }
   .instagram h1{
     font-size: 3.6rem;
   }
@@ -1086,4 +1100,16 @@ button1:hover {
 
 .alignright {
     font-size: .25em;
+}
+
+
+
+h4 {
+    font-size: 1em;
+}
+
+@media only screen and (min-width: 768px) {
+  h4 {
+    font-size: 1.5em;
+  }
 }
