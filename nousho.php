@@ -15,7 +15,7 @@
 	</div>
     <div class="container">
         <div id="textbox">
-  <p class="alignright"><a href="citi_skope">NEXT PROJECT &#8614;</a> </p>
+  <p class="alignright"><a href="the-first-real-estate-book-cover">NEXT PROJECT &#8614;</a> </p>
 </div>
         
         <div class="section group">

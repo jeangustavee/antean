@@ -508,7 +508,7 @@ main p {
 .top-page {
     position: relative;
     padding: 120px 10%;
-    width: auto;
+    width: 100%;
     font-size: 1.5em;
     margin-bottom: 1em;
     color: #fff;
