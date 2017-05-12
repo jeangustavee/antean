@@ -15,9 +15,9 @@
     <div class="container-about">
         <h1>We Spark Results</h1>
         <img src="img/antean_interior.jpg" width="100%"><br><br>
-        <p>Antean Studios is a digital marketing firm based in Jacksonville, FL focusing on graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
+        <p>Antean Studios is a creative and digital marketing firm based in Jacksonville, FL focusing on graphic design, web design, printing, social media, commercials, apps, films, books and objects for clients, audiences and ourselves. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
         
-        <p>Our team includes graphic designers, writers, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
+        <p>Our team includes graphic designers, writers, animators, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
     </div>
     
     <div class="container-red">

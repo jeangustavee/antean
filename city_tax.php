@@ -32,7 +32,7 @@
 	</div>
     <div class="container">
          <div id="textbox">
-  <p class="alignleft"><a href="starto">&#8612; PREVIOUS PROJECT</a> </p>
+  <p class="alignleft"><a href="viia_tours">&#8612; PREVIOUS PROJECT</a> </p>
   <p class="alignright"><a href="nousho">NEXT PROJECT &#8614;</a> </p>
 </div>
         <div class="section group">

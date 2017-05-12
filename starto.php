@@ -17,7 +17,7 @@
 	</div>
     <div class="container">
         <div id="textbox">
-  <p class="alignleft"><a href="citi_skope">&#8612; PREVIOUS PROJECT</a> </p>
+  <p class="alignleft"><a href="moringalakay">&#8612; PREVIOUS PROJECT</a> </p>
             <p class="alignright"><a href="viia_tours">NEXT PROJECT &#8614;</a> </p>
 </div><br><br><br>
         

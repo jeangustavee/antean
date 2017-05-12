@@ -19,7 +19,7 @@
     <div class="container">
          <div id="textbox">
   <p class="alignleft"><a href="starto">&#8612; PREVIOUS PROJECT</a> </p>
-  <p class="alignright"><a href="ems">NEXT PROJECT &#8614;</a> </p>
+  <p class="alignright"><a href="city_tax">NEXT PROJECT &#8614;</a> </p>
 </div>
         <div class="section group">
             <img src="img/viiatours/viiatours_branding.png" width="100%"><br><br>

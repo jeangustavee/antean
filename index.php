@@ -46,7 +46,7 @@
 <body>
 	<main>
         <p>The First Real Estate Book of Haiti is a real estate book written by author and professor Jacques Guillaume. We conceptualized and developped the book cover.<br>
-           <a href="#"> <button1 type="button">CASE STUDY</button1></a> </p>
+           <a href="the-first-real-estate-book-cover"> <button1 type="button">CASE STUDY</button1></a> </p>
 	</main>
 
 				<section class="section section--flow">
@@ -56,12 +56,12 @@
 						<p class="text text--left"><span class="deco-bg deco-bg--color-1">Nousho is an advanced eco-friendly dry cleaning company. We were hired to create their logo, business cards and website. The project is still in progress as our team develops the website now.<br><a href="nousho">view case study>></a> </span></p>
 					</div>
 				</section>
-
+        
 				<section class="section section--flow">
 					<div class="content">
-						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/nsite_thumbnail.jpg)"></div>
-						<h2 class="title">nsite</h2>
-						<p class="text"><span class="deco-bg deco-bg--color-2">Nsite is a startup company helping to fund African American businesses. We conceptualized a simple but bold letter based logo for them in black and white along with business cards and their landing page.<br><a href="nsite">view case study>></a> </span></p>
+						<div id="frag-3" class="fragment-wrap" style="background-image: url(img/tfreoh_thumbnail.png)"></div>
+						<h2 class="title">tfrebh</h2>
+						<p class="text"><span class="deco-bg deco-bg--color-2">The First Real Estate Book of Haiti is a real estate book written by author and professor Jacques Guillaume. We conceptualized and developped the book cover.<br><a href="the-first-real-estate-book-cover">view case study>></a> </span></p>
 					</div>
 				</section>
 
