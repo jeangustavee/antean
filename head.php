@@ -39,7 +39,7 @@ Thanks for checking our codes out
     <link rel="icon" type="image/png" sizes="32x32" href="img/antean_favicon.png">
      
   	
-	<title>Antean Studios | Graphic design, web design and digital marketing agency | Jacksonville, Florida</title>
+	<title>Antean Studios | Graphic design, web design, printing and digital marketing agency | Jacksonville, Florida</title>
     
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

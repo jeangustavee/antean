@@ -58,7 +58,7 @@ main {
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
   margin-bottom: 200px;
-  background-image:url(../img/intro-book-cover.jpg);
+  background-color: #ed1c24;
   max-width: 100%;
   background-size: cover;
   background-position: center;
@@ -81,16 +81,20 @@ main {
 main p {
   font-family: 'Poppins', sans-serif;
   color: white;
-  max-width: 450px;
+  max-width: 90%;
   margin-top: 0 auto;
   line-height: normal;
-  float: left;
   text-align: left;
-  padding: -10px;
   height: auto;
-  font-size: 1em;
-  background-color: rgb(237,27,36, 0.6);
+  font-size: 1.5em;
 }
+
+main h1 {
+    font-size: 8vw;
+    color: white;
+    text-transform: uppercase;
+}
+
 .navigation-is-open main {
   -webkit-transform: translateX(100%);
   -moz-transform: translateX(100%);
@@ -100,15 +104,22 @@ main p {
 }
 @media only screen and (min-width: 768px) {
   main {
-    padding: 250px 10%;
+    padding: 500px 12%;
     width: 100%;
     background-size: cover;
     height: 100vh;
   }
   main p {
-    font-size: 1.5em;
-    background-color: rgb(237,27,36, 0);
+    font-size: 2.5em;
   }
+}
+
+.logo {
+    position:absolute;
+    z-index: 3;
+    right: 30%;
+    top: 20px;
+    width: 100px;
 }
 
 .nav-trigger {

@@ -1,4 +1,5 @@
 <?php include("head.php"); ?>
+<?php include("menu.php"); ?>
 
 <body>
 	<div class="top-page">
@@ -8,7 +9,7 @@
 	   
         
 	</div>
-	<?php include("menu.php"); ?>
+	
     
     <div class="container">
         <h1>WORK &#9786; --THE STUDIO</h1><hr width="80%"><br>

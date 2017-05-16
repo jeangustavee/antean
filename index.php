@@ -1,5 +1,5 @@
 <?php include("head.php"); ?>
-<?php include("menu.php"); ?>
+
 <style>
 /*  SECTIONS  */
 .section {
@@ -42,11 +42,12 @@
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
 </style>
-
+<?php include("menu.php"); ?>
 <body>
 	<main>
-        <p>The First Real Estate Book of Haiti is a real estate book written by author and professor Jacques Guillaume. We conceptualized and developped the book cover.<br>
-           <a href="the-first-real-estate-book-cover"> <button1 type="button">CASE STUDY</button1></a> </p>
+       <h1>We are Antean Studios</h1>
+        <p>We're a creative agency. Ask us about branding, design and advertising.
+Being small we can go into detail.<br> </p>
 	</main>
 
 				<section class="section section--flow">
