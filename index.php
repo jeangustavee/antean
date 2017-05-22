@@ -46,8 +46,8 @@
 <body>
 	<main>
        <h1>We are Antean Studios</h1>
-        <p>We're a creative agency. Ask us about branding, design and advertising.
-Being small we can go into detail.<br> </p>
+        <p>A multi-functional creative agency. Ask us about graphic | web design, printing, digital advertising and production.
+Being small we can go into detail. </p>
 	</main>
 
 				<section class="section section--flow">

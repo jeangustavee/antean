@@ -1,6 +1,6 @@
 <div class="footer">
     <p><center>&#8652; <br>
-        We are a multi functional agency,<br>
+        We are a multi-functional advertising agency,<br>
         we love good things and great design.<br>
        Say hi to us hey@anteanstudios.com <br>
         &#8659;  <br>

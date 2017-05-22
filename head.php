@@ -57,5 +57,7 @@ Thanks for checking our codes out
         if($_SERVER['REQUEST_URI'] == "/send") {
             include ("fb-send-pixel.php");
         }
-    ?>    
+    ?>  
+    
+      <script src="https://embed.small.chat/T49JGUDHVG5FTXSQ67.js" async></script>  
 </head>

@@ -6,10 +6,6 @@
 		</svg>
 	</a>
 	
-	<div class="logo">
-	    <img src="img/Antean_Logo_white.png">
-	</div>
-	
 	<div id="nav" class="nav">
 		<div class="navigation-wrapper">
 			<div class="half-block">
