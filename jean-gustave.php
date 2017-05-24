@@ -30,7 +30,7 @@
 <?php include("menu.php"); ?>
 <div class="top-page">
             <h1>Jean Gustave</h1> 
-            <p>Art Director</p>
+            <h4>Art Director</h4>
 	</div>
      <div class="container">
         <h4> &quot; I do a lot when I think I’m free. I’m always working because Antean Studios is still a baby, other than that I used to play soccer but I recently stopped because my knees no longer allow me to. I read a lot too and I spend time with my kids doing fun projects. &rdquo; </h4><br>
@@ -57,7 +57,7 @@ I think I know why President Trump is always on Twitter. It's a quick and addict
 
  </p><br>
         <img src="img/team/Jean-Screen-Shot%20.png" width="100%"><br><br>
-      <p style="text-align:center;">  <img src="img/team/jean-phone-screen.PNG" width="60%" content-align="center"></p><br><br>
+      <p style="text-align:center;">  <img src="img/team/jean-phone-screen.jpg" width="60%" content-align="center"></p><br><br>
 
 <p>
 <b>Favorite Electronics</b><br>
@@ -84,11 +84,36 @@ Right now I’m reading 2 book at the same time. All Marketers Are Liars by Seth
 <b>Apple or Android</b><br>
 Team Apple all day.<br><br>
 <b>Social Medias</b><br>
-My Instagram account is @iamjenaegustave and same for Twitter.</p><br><br>
+My Instagram account is @iamjenaegustave and same for Twitter.<br><br>
+         
+           <h4>Meet more of us</h4>
+         
+         <div class="section group">
+            
+	<div class="col span_1_of_3">
+	<a href="ashley-barzaga">
+	<img src="img/team/ashley-barzaga.JPG" width="100%">
+	<h5>ASHLEY BARZAGA </h5>
+	<p>Graphic Design/Animation</p></a>
+	</div>
+            
+	<div class="col span_1_of_3">
+	<a href="cody-smith.php">
+	<img src="img/team/cody-smith.JPG" width="100%">
+	<h5>CODY SMITH </h5>
+    <p>GRaphic Design/Production</p></a>
+	</div>
+            
+	<div class="col span_1_of_3">
+	<a href="shanice-cook">
+	<img src="img/team/shanice-cook.JPG" width="100%">
+	<h5>SHANICE COOK </h5>
+	<p>Communications - Public Relations - Social Media</p></a>
+	</div>
 
          
     </div>
-
+</div>
 
 <script>
 (function() { // DON'T EDIT BELOW THIS LINE
