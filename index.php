@@ -45,9 +45,8 @@
 <?php include("menu.php"); ?>
 <body>
 	<main>
-       <h1>We are Antean Studios</h1>
-        <p>A multi-functional creative agency. Ask us about graphic | web design, printing, digital advertising and production.
-Being small we can go into detail. </p>
+       <h1>We spark results</h1>
+        <p>A creative, multi-functional advertising agency. Ask us about graphic | web design, printing, digital advertising and production. </p>
 	</main>
 
 				<section class="section section--flow">

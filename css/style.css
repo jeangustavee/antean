@@ -523,6 +523,7 @@ main h1 {
 .top-page h1 {
     font-size: 2.5em;
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .top-page h2 {
