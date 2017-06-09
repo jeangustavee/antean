@@ -53,11 +53,50 @@ Print<br>
         </div>
     
     <div class="container">
+         <div class="section group">
+            <div class="col span_1_of_2">
+	<a href="shanice-cook">
+	<img src="img/team/shanice-cook.JPG" width="100%">
+	<h5>SHANICE COOK </h5>
+	<p>Communications - Public Relations - Social Media</p></a>
+	</div>
+            
+            
+	<div class="col span_1_of_2">
+	<a href="ashley-barzaga">
+	<img src="img/team/ashley-barzaga.JPG" width="100%">
+	<h5>ASHLEY BARZAGA </h5>
+	<p>Graphic Design/Animation</p></a>
+	</div>   
+            
+</div>
+       
+     <div class="section group"> 
+      <div class="col span_1_of_2">
+	<a href="cody-smith">
+	<img src="img/team/cody-smith.JPG" width="100%">
+	<h5>CODY SMITH </h5>
+	<p>Graphic Design/Production</p></a>
+	</div> 
+      
+      <div class="col span_1_of_2">
+	<a href="jean-gustave">
+	<img src="img/team/jean-gustave.JPG" width="100%">
+	<h5>JEAN GUSTAVE </h5>
+    <p>Art Director</p></a>
+	</div>
+       
+        </div>
+       
+       
+       <br><br><br><hr><br><br>
+       
+       
         <h1>FAQ</h1>
         
         <div class="section group">
 	<div class="col span_1_of_3">
-	<h3>Studio Visits & Salon Nights</h3>
+	<h4>Studio Visits & Salon Nights</h4>
 	</div>
 	<div class="col span_1_of_3">
 	<p>Although we'd love to meet you, we are a small studio and can't do visits or tours. We do host "Salon Nights," where three designers can visit the studio and share their work and get feedback on portfolios.</p>
@@ -69,7 +108,7 @@ Print<br>
         
         <div class="section group">
 	<div class="col span_1_of_3">
-	<h3>Applying for Internship</h3>
+	<h4>Applying for Internship</h4>
 	</div>
 	<div class="col span_1_of_3">
 	<p>Please email us a link to your website at hey@anteanstudios.com. Please put "Internship Application: Your Name Here" as the subject. Please keep in mind that we have a waiting list for internships. However, we'd still love to see your work as occasionally we have spots open up sooner.</p>
@@ -81,7 +120,7 @@ Print<br>
         
         <div class="section group">
 	<div class="col span_1_of_3">
-	<h3>Applying for Positions</h3>
+	<h4>Applying for Positions</h4>
 	</div>
 	<div class="col span_1_of_3">
 	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us a link to your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the subject.</p>
@@ -93,7 +132,7 @@ Print<br>
         
         <div class="section group">
 	<div class="col span_1_of_3">
-	<h3>Student Questions</h3>
+	<h4>Student Questions</h4>
 	</div>
 	<div class="col span_1_of_3">
 	<p>Unfortunately we can't respond to every single question. However, we will do our best to answer.</p>

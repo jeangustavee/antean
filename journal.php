@@ -44,21 +44,44 @@ img {
         <div class="container">
             
             <!-- featured article -->
-        <img src="img/journal/hirelocal.jpg" width="100%">
+        <img src="img/blog/5-things-to-consider-before-hiring.jpeg" width="100%">
 	
-        <h3>HIRE LOCAL - Call for subjects</h3>
-            <p>For this project I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc.</p>
+        <h3>5 things to consider before hiring an agency to design your logo</h3>
+            <p>A logo is defined in the dictionary as “a symbol or other design adopted by an organization to identify its products, uniform, vehicles, etc.” A logo is important to an organization because it defines them.</p>
             
-        <p style="color:red"><a href="hire-local-project">Read more +</a>  </p>	
+        <p style="color:red"><a href="5-things-to-consider-before-hiring-an-agency-to-design-your-logo">Read more +</a>  </p>	
             <br><br><br>
             
             
             
               <!-- more artiles -->
-         <div class="section group">
+               <div class="section group">
              <hr><br>
+            
+             <div id="journalborder" class="col span_1_of_2">
+        <img class="journalimg" src="img/blog/5-things-to-consider-before-hiring.jpeg" width="100%"><br>
+        <div class="journaltext">
+        <a href="5-things-to-consider-before-hiring-an-agency-to-design-your-logo">
+        <h3>5 things to consider before hiring an agency to design your logo</h3>
+        <p>Hiring someone to design your logo is a great choice...</p>
+            </a>
+            </div>
+	</div>
              
-             
+             <div id="journalborder" class="col span_1_of_2">
+        <img class="journalimg" src="img/journal/hirelocal.jpg" width="100%"><br>
+        <div class="journaltext">
+            <a href="hire-local-project">
+        <h3>HIRE LOCAL - Call for subjects</h3>
+            <p>For this project I will focus on subjects that can...  </p>
+                </a>
+                </div>
+	</div>
+            </div>
+              
+              
+         <div class="section group">
+            
              <div id="journalborder" class="col span_1_of_2">
         <img class="journalimg" src="img/journal/jobs-summer.jpeg" width="100%"><br>
         <div class="journaltext">

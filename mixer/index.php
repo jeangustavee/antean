@@ -144,15 +144,14 @@ currency: 'USD'
 
 
 <div class="top-page">
-            <img src="../img/mixer/afterwork-temp-logo.png" width="290px">
+            <img src="../img/mixer/after-work-mixer-web.png" width="280px">
             <h2><b>For creative entrepreneurs<br>and small business owners</b></h2>
 	</div>
     <div class="container">
-        <h1>March 9, 2017 | 6-9PM</h1>
-        <p>After Work Networking Mixer is a <b>FREE</b> networking mixer committed to connect like-minded individuals in the Jacksonville business scene on a monthly basis. Our primary focus is to create an atmosphere where business owners and creative entrepreneurs may network and socialize freely. The After Work Networking Mixer will give opportunities to business owners and creative entrepreneurs to showcase their product or services. It’s our hope that as we do more events, we might grow to encompass more of what we feel is lacking in the Jacksonville business and entrepreneurial scenes.</p>
+        <h1>June 15th, 2017 | 6-9PM</h1>
+        <p>The After Work Networking Mixer is a FREE networking mixer committed to connect like-minded individuals in the Jacksonville business scene on a monthly basis. Our primary focus is to create an atmosphere where business owners and creative entrepreneurs may network and socialize freely. The After Work Networking Mixer will give opportunities to business owners and creative entrepreneurs to showcase their product or services. It’s our hope that as we do more events, we might grow to encompass more of what we feel is lacking in the Jacksonville business and entrepreneurial scenes</p>
         <br>
-        <p>We will have a list with all business owners attending the event to give out to every single guest and to email out to our subscribers as references. They might use the list when they need any type of service. People do business with people they know. It’s a good way to showcase all businesses in one place instead of exchanging tones of business cards. It’s also a good way to build a stronger business community. If you would like to enlist your business, please register your business below.
-</p>
+        <p>We will have a list with all business owners attending the event to give out to every single guest and to email out to our subscribers as references. They might use the list when they need any type of service. People do business with people they know. It’s a good way to showcase all businesses in one place instead of exchanging tones of business cards. It’s also a good way to build a stronger business community. If you would like to reserve a spot for this event, please register your business below.</p>
 
 				<br><br>
         <!-- application submit status -->
@@ -230,14 +229,18 @@ currency: 'USD'
     <input type="submit" name="submit" value="Submit">
   </div>
 </form>
+  <br><br>
    <p><b>MANIFESTO</b> </p>
-   <p>It’s our mission to simply create an awesome monthly event. It’s our desire to cultivate a place where people with similar interests can meet and mingle every month. We’re all about inclusion at The After Work Networking Mixer; no people, group or organization need be excluded. If you vibe with our concept, come to our next event and introduce yourself.
+   <p>It’s our desire to cultivate a place where people with similar interests can meet and mingle. We’re all about inclusion at the After Work Networking Mixer; no people, group or organization will be excluded. If you vibe with our concept, come to our next event and introduce yourself.
 </p>
     </div>
 
     <div class="footer">
-    <h1><center>&#8652; <br>
-        © ANTEAN STUDIOS - All copyright 2016</center></h1>
+    <p><center>&#8652; <br>
+        © ANTEAN STUDIOS - All copyright 2016
+        <br>
+        <a href="http://facebook.com/anteanstudios" target="_blank">Facebook</a> | <a href="http://instagram.com/anteanstudios" target="_blank">Instagram</a> | <a href="http://twitter.com/anteanstudios" target="_blank">Twitter</a> | <a href="https://anteanstudios.tumblr.com" target="_blank">Tumblr</a> <br>
+        </center></p>
 
     </div>
 
