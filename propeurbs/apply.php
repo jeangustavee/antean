@@ -105,7 +105,7 @@
 
 
         <h1>APPLY TO ATTEND PROPEURBS</h1>
-        <p>PROPEURBS is a one-day free business workshop. You can attend at no cost. Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
+        <p>PROPEURBS is a two-hours business workshop. The cost to attend is $199.99. Antean Studios will pay for 4 participants. You will be informed whether you have to pay or not after submitting your application.<br><br> Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
 
         <!-- application submit status -->
         <?php if(!empty($statusMsg)){ ?>
@@ -162,10 +162,20 @@
       </select>
     </label>
   </div>
+           <div class="col-1">
+               <label>
+                   Would you like Antean Studios to cover your participating fees?
+                   <select name="payment" tabindex="8">
+                       <option value="None">Select</option>
+                       <option value="Yes-Antean">Yes</option>
+                       <option value="No">No</option>
+                   </select>
+               </label>
+           </div>
             <div class="col-1">
             <label>
                 Explain your business in a few words
-                <textarea name="message" placeholder="Please describe what type of service you are providing in a few words" tabindex="8"></textarea>
+                <textarea name="message" placeholder="Please describe what type of service you are providing in a few words" tabindex="9"></textarea>
                 </label>
             </div>
   <div class="col-submit">

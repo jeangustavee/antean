@@ -148,7 +148,7 @@ currency: 'USD'
             <h2><b>For creative entrepreneurs<br>and small business owners</b></h2>
 	</div>
     <div class="container">
-        <h1>June 15th, 2017 | 6-9PM</h1>
+        <h1>JULY 20th, 2017 | 6:30PM-9:30PM</h1>
         <p>The After Work Networking Mixer is a FREE networking mixer committed to connect like-minded individuals in the Jacksonville business scene on a monthly basis. Our primary focus is to create an atmosphere where business owners and creative entrepreneurs may network and socialize freely. The After Work Networking Mixer will give opportunities to business owners and creative entrepreneurs to showcase their product or services. It’s our hope that as we do more events, we might grow to encompass more of what we feel is lacking in the Jacksonville business and entrepreneurial scenes</p>
         <br>
         <p>We will have a list with all business owners attending the event to give out to every single guest and to email out to our subscribers as references. They might use the list when they need any type of service. People do business with people they know. It’s a good way to showcase all businesses in one place instead of exchanging tones of business cards. It’s also a good way to build a stronger business community. If you would like to reserve a spot for this event, please register your business below.</p>

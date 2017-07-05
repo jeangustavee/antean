@@ -44,12 +44,13 @@ img {
         <div class="container">
             
             <!-- featured article -->
-        <img src="img/blog/5-things-to-consider-before-hiring.jpeg" width="100%">
+        <img src="img/journal/find-creative-agency-in-jacksonville.jpeg" width="100%">
 	
-        <h3>5 things to consider before hiring an agency to design your logo</h3>
-            <p>A logo is defined in the dictionary as “a symbol or other design adopted by an organization to identify its products, uniform, vehicles, etc.” A logo is important to an organization because it defines them.</p>
+        <h3>3 easy ways to find a good creative agency in Jacksonville</h3>
             
-        <p style="color:red"><a href="5-things-to-consider-before-hiring-an-agency-to-design-your-logo">Read more +</a>  </p>	
+            <p>If you have ever lived in Jacksonville, you know how challenging it is to find a good creative agency. As everyone is still on the side line freelancing—because there’s not enough jobs in the creative field—people are most likely to be misled. </p>
+            
+        <p style="color:red"><a href="3-easy-ways-to-find-a-good-creative-agency-in-Jacksonville.php">Read more +</a>  </p>	
             <br><br><br>
             
             
