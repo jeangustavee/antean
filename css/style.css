@@ -579,7 +579,7 @@ main h1 {
 @media only screen and (max-width: 768px) {
   .container {
     padding: 125px 10%;
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
   .container h1{
     font-size: 2em;
@@ -1009,42 +1009,25 @@ button1:hover {
     font-size: 3.6rem;
   }
 }
+
 .journaltext {
-    margin-top: -140px;
-    width: 80%;
+    margin-top: -140;
     z-index: 3;
     float:inherit;
     background-color: transparent;
     transition:all 0.6s ease;
     color: gray;
-    border: 3px solid lightgray;
+    border: none;
+    font-size: 25px;
 }
 
 .journaltext a {
     color: gray;
 }
 
-.journaltext a:hover{
-    color: white;
-}
-
-.journaltext:hover {
-    background-color: #ED1C24;
-    box-shadow:
-                1px 1px #000000,
-                2px 2px gray,
-                4px 4px darkgray;
-        -webkit-transform: translateX(-3px);
-        transform: translateX(-3px);
-    color: white;
-    border: none;
-}
-
-
 .journalimg {
     z-index: 1;
-    width: 90%;
-    float: right;
+    width: ;
 }
 
 .journaltext h3 {
@@ -1057,6 +1040,7 @@ button1:hover {
     float: none;
     width: 100%;
     margin: 5px;
+    font-size: 20px;
   }
     
     .journaltext h3 {
@@ -1069,12 +1053,6 @@ button1:hover {
     .journalimg {
         float: none;
         width: 100%;
-    }
-    
-    .journaltext:hover {
-    background-color: #fff;
-    color: gray;
-    box-shadow: none;
     }
     
     .journaltext a {

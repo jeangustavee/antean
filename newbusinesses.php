@@ -1,48 +1,68 @@
 <?php include("head.php"); ?>
 
 <style>
-.col{
-        border: 1.5px solid lightgray;
-        padding: 10px;
+    .top-page {
+    background-image:url(./img/new_businesses/hero.jpg);
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    height: 100%;
+    padding: 190px 10%;
+}
+     a {
+        color: #053950;
     }
-h3, p{
-        margin: 10px;
+
+    a:hover {
+        color: #ea5a5a;
+    }
+
+    h3 {
+        margin-bottom: 90px;
         color: gray;
-}
+        align-content: center;
+        font-size: 1.5em;
+    }
 
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+    h2{
+        font-size: 0.9em;
+        color: #ea5a5a;
+    }
 
-.img {
-  position: relative;
-  border: 1px solid #333;
-  margin: 2%;
-  overflow: hidden;
-  width: 540px;
-}
-img {
-  max-width: 100%;
+    .container-red{
+        background-color: #053950;
+    }
 
-  -moz-transition: all 0.3s;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-}
+@media only screen and (min-width: 768px) {
+  .top-page {
+    padding: 290px 10%;
+  }
+  .top-page h1{
+    font-size: 3.6rem;
+    text-align: left;
+    color: #ea5a5a;
+  }
+    h3{
+        font-size: 3.5em;
+    }
+
+    h2{
+        font-size: 2.5em;
+    }
 
     b {
-        font-weight: 800;
+        font-weight: 600;
         text-transform: uppercase;
     }
+}
 </style>
 
 <?php include("menu.php"); ?>
 <body>
 	<div class="top-page">
-            <img src="img/Antean_newbusiness.png" width="42%">
             <h1>Need to revamp your empire? <br>Well, get in touch</h1>
 	</div>
         <div class="container">
@@ -86,6 +106,7 @@ img {
         <option value="website">Website</option>
         <option value="app">Application Development</option>
         <option value="social-media">Social Media Marketing</option>
+        <option value="wedding">Wedding Photography</option>
         <option value="photovideo">Photo/video production</option>
         <option value="other">Other</option>
       </select>

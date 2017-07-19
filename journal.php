@@ -44,42 +44,53 @@ img {
         <div class="container">
             
             <!-- featured article -->
-        <img src="img/journal/find-creative-agency-in-jacksonville.jpeg" width="100%">
+        <img src="journalnews/images/crowd-jacksonville.png" width="100%">
 	
-        <h3>3 easy ways to find a good creative agency in Jacksonville</h3>
+        <h3>Antean Studios for the Jacksonville business community</h3>
             
-            <p>If you have ever lived in Jacksonville, you know how challenging it is to find a good creative agency. As everyone is still on the side line freelancing—because there’s not enough jobs in the creative field—people are most likely to be misled. </p>
+            <p class="journaltext">Most businesses are comfortable with the recurring payment scheme where the profits only go one way; but, we are far away from that. The upshots are that sometimes the clients don’t stay in business for too long. Then the said business has to hunt new clients. Here comes Antean Studios. We want our clients to stay in business.</p>
             
-        <p style="color:red"><a href="3-easy-ways-to-find-a-good-creative-agency-in-Jacksonville.php">Read more +</a>  </p>	
+        <p style="color:red"><a href="journalnews/Antean-Studios-for-the-Jacksonville-business-community">Read more +</a>  </p>	
             <br><br><br>
             
             
             
               <!-- more artiles -->
-               <div class="section group">
+             
              <hr><br>
+              <div id="journalborder">
+             <img class="journalimg" src="img/journal/find-creative-agency-in-jacksonville.jpeg" width="100%">
+              <div class="journaltext">
+        <h3>3 easy ways to find a good creative agency in Jacksonville</h3>
             
-             <div id="journalborder" class="col span_1_of_2">
+            <p class="journaltext">If you have ever lived in Jacksonville, you know how challenging it is to find a good creative agency. As everyone is still on the side line freelancing—because there’s not enough jobs in the creative field—people are most likely to be misled... <a href="3-easy-ways-to-find-a-good-creative-agency-in-Jacksonville">Read more +</a> </p>	
+            <br><br>
+                  </div>
+            </div>
+            <br><br>
+            
+             <div id="journalborder">
         <img class="journalimg" src="img/blog/5-things-to-consider-before-hiring.jpeg" width="100%"><br>
         <div class="journaltext">
         <a href="5-things-to-consider-before-hiring-an-agency-to-design-your-logo">
         <h3>5 things to consider before hiring an agency to design your logo</h3>
-        <p>Hiring someone to design your logo is a great choice...</p>
+        <p>Hiring someone to design your logo is a great choice. Hiring someone locally is an even better choice! You want someone you can sit down and talk with. You want to ask questions about their process and what they expect of you just to ensure that you are comfortable. Remember, a logo defines you and it will be on everything that you do... <a href="5-things-to-consider-before-hiring-an-agency-to-design-your-logo">Read more +</a></p>
             </a>
             </div>
 	</div>
+            <br><br>
              
-             <div id="journalborder" class="col span_1_of_2">
+             <div id="journalborder">
         <img class="journalimg" src="img/journal/hirelocal.jpg" width="100%"><br>
         <div class="journaltext">
             <a href="hire-local-project">
         <h3>HIRE LOCAL - Call for subjects</h3>
-            <p>For this project I will focus on subjects that can...  </p>
+            <p>For this project, I will focus on subjects that can trigger motivations from others and incite them to start hiring local talents. I want to hear from freelancers and small business owners. Participants are not limited to women, people of color, working parents, immigrants, LGBT, disabled, etc...  <a href="hire-local-project">Read more +</a></p>
                 </a>
                 </div>
 	</div>
-            </div>
-              
+        
+              <br><br>
               
          <div class="section group">
             

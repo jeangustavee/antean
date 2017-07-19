@@ -105,7 +105,7 @@
 
 
         <h1>APPLY TO ATTEND PROPEURBS</h1>
-        <p>PROPEURBS is a two-hours business workshop. The cost to attend is $199.99. Antean Studios will pay for 4 participants. You will be informed whether you have to pay or not after submitting your application.<br><br> Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
+        <p>PROPEURBS is a two-hour business workshop. The cost to attend is $199.99. Antean Studios will pay for 4 participants. You will be informed whether you have to pay or not after submitting your application.<br><br> Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
 
         <!-- application submit status -->
         <?php if(!empty($statusMsg)){ ?>
