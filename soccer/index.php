@@ -14,7 +14,7 @@
 	<script src="../js/modernizr.js"></script> <!-- Modernizr -->
     <link rel="icon" type="image/png" sizes="32x32" href="../img/antean_favicon.png">
 
-	<title>PROPEURBS by Antean Studios | Business workshop | Jacksonville, fl </title>
+	<title>SUMMER ENDS SOCCER TOURNAMENT by Antean Studios | Soccer Tournament | Jacksonville, fl </title>
 
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -101,12 +101,12 @@
             <h2 style="color:white;">ANTEAN STUDIOS for the community</h2>
 	</div>
     <div class="container">
-      <h1>AUGUST 19 AND 20, 2017</h1><br><br>
+     <center> <h2>AUGUST 19 AND 20, 2017</h2></center><br><br>
       
-       <center> <p><a href="what-you-learn">REGULATION</a> |  <a href="what-to-bring">WHAT TO BRING</a> | <a href="schedule">SCHEDULE</a> </p></center><br><br>
+       <center> <p><a href="what-you-learn">REGULATION</a> |  <a href="what-to-bring">SCHEDULE</a> | <a href="schedule">PAYMENT</a> </p></center><br><br>
 
 
-        <center><h2>REGISTER YOUR TEAM</h2></center>
+        <center><h1>REGISTER YOUR TEAM</h1></center>
         <p>PROPEURBS is a two-hour business workshop. The cost to attend is $199.99. Antean Studios will pay for 4 participants. You will be informed whether you have to pay or not after submitting your application.<br><br> Because we cannot host too many participants at this time, we will have to choose eight (8) applicants to participate in the workshop. Qualifications are based on the nature and phase of your business or idea. Once you are selected, we will get in touch with you to continue the process. Before you apply, make sure you are available at the date of the workshop.</p><br>
 
         <!-- application submit status -->

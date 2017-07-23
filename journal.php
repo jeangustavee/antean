@@ -44,13 +44,13 @@ img {
         <div class="container">
             
             <!-- featured article -->
-        <img src="journalnews/images/crowd-jacksonville.png" width="100%">
+        <img src="journalnews/images/Slack-thumb.png" width="100%">
 	
-        <h3>Antean Studios for the Jacksonville business community</h3>
+        <h3>Our Team with Slack</h3>
             
-            <p class="journaltext">Most businesses are comfortable with the recurring payment scheme where the profits only go one way; but, we are far away from that. The upshots are that sometimes the clients don’t stay in business for too long. Then the said business has to hunt new clients. Here comes Antean Studios. We want our clients to stay in business.</p>
+            <p class="journaltext">Communication is the number one feature of Slack. One of the main reasons why we use Slack at the office is to communicate with each other. This process is seemingly very convenient. You can communicate privately with other team members or just post something in channels for multiple team members to see at once. </p>
             
-        <p style="color:red"><a href="journalnews/Antean-Studios-for-the-Jacksonville-business-community">Read more +</a>  </p>	
+        <p style="color:red"><a href="journalnews/our-team-with-slack.php">Read more +</a>  </p>	
             <br><br><br>
             
             
@@ -58,6 +58,18 @@ img {
               <!-- more artiles -->
              
              <hr><br>
+             <div id="journalborder">
+             <img class="journalimg" src="journalnews/images/crowd-jacksonville.png" width="100%">
+              <div class="journaltext">
+        <h3>Antean Studios for the Jacksonville business community</h3>
+            
+            <p class="journaltext">Most businesses are comfortable with the recurring payment scheme where the profits only go one way; but, we are far away from that. The upshots are that sometimes the clients don’t stay in business for too long. Then the said business has to hunt new clients. Here comes Antean Studios. We want our clients to stay in business... <a href="journalnews/Antean-Studios-for-the-Jacksonville-business-community">Read more +</a> </p>	
+            <br><br>
+                  </div>
+            </div>
+            <br><br>
+             
+             <!-- next article -->
               <div id="journalborder">
              <img class="journalimg" src="img/journal/find-creative-agency-in-jacksonville.jpeg" width="100%">
               <div class="journaltext">
