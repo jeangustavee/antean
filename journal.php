@@ -50,7 +50,7 @@ img {
             
             <p class="journaltext">Communication is the number one feature of Slack. One of the main reasons why we use Slack at the office is to communicate with each other. This process is seemingly very convenient. You can communicate privately with other team members or just post something in channels for multiple team members to see at once. </p>
             
-        <p style="color:red"><a href="journalnews/our-team-with-slack.php">Read more +</a>  </p>	
+        <p style="color:red"><a href="journalnews/our-team-with-slack">Read more +</a>  </p>	
             <br><br><br>
             
             
