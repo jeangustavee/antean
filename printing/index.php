@@ -28,7 +28,7 @@
     }
 
     h2{
-        font-size: 1.5em;
+        font-size: 0.9em;
         color: #ea5a5a;
     }
 
@@ -66,63 +66,10 @@
             <h1>Need to revamp your empire? <br>Well, get in touch</h1>
 	</div>
         <div class="container">
-        <h2><center>YOUR BUSINESS IS OUR BUSINESS AND, TRUST US, IT'S A FIXED SCIENCE FOR US.</center></h2><br><br>
-        
-         <div class="section group">
-	<div class="col span_1_of_4">
-	<img src="img/services/design.png" alt="" width="100%" />
-	<p><center><b>Design</b><br>
-	UI & UX Design<br>
-	Graphic Design<br>
-	Package Design<br>
-	Logo & Branding<br>
-	Web Design
-	</center></p>
-	</div>
-	
-	<div class="col span_1_of_4">
-	<img src="img/services/coding.png" alt="" width="100%" />
-	<p><center><b>Development</b><br>
-	App. Dev.<br>
-	Mobile Apps<br>
-	Web Dev.<br>
-	</center></p>
-	</div>
-	
-	<div class="col span_1_of_4">
-	<img src="img/services/printing.png" alt="" width="100%" />
-	<p><center><b>Printing</b><br>
-	Print<br>
-	Signage<br>
-	Business Cards<br>
-	Flyers<br>
-	Brochures<br>
-	etc.
-	</center></p>
-	</div>
-	
-	<div class="col span_1_of_4">
-	<img src="img/services/marketing.png" alt="" width="100%" />
-	<p><center><b>Marketing</b><br>
-	SEO<br>
-	Content Marketing<br>
-	Social Media<br>
-	PPC Ads<br>
-	Email Marketing
-	</center></p>
-	</div>
-</div>
-            
-            
-    </div>
-      
-      
-      
-      
-      <div class="container">
-      
-      <p>If you would like to hire us for your next project you can <a href="mailto:hey@anteanstudios.com?subject=New%20business">send us an email</a> or for more details, just fill out the form below. </p>
+        <h3>Gosh! Too many ways to get in touch with us!</h3>
+            <p>If you would like to hire us for your next project you can <a href="mailto:hey@anteanstudios.com?subject=New%20business">send us an email</a> or for more details, just fill out the form below. </p>
 <br><br>
+
        <!-- application submit status -->
         <?php if(!empty($statusMsg)){ ?>
             <p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>

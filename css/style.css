@@ -717,6 +717,26 @@ main h1 {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 
+/*  GRID OF FOUR  */
+.span_4_of_4 {
+	width: 100%;
+}
+.span_3_of_4 {
+	width: 74.6%;
+}
+.span_2_of_4 {
+	width: 49.2%;
+}
+.span_1_of_4 {
+	width: 23.8%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 780px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
+}
+
 /* Accordion */
 button.accordion {
     background-color: transparent;
@@ -823,6 +843,7 @@ button.accordion-red.active:after {
     font-size: 2em;
 }
 
+/* FORM */
 form
 {
   display: block;
@@ -997,19 +1018,6 @@ button1:hover {
     font-size: 1em;
 }
 
-
-
-.instagram h1 {
-    font-size: 2rem;
-}
-
-@media only screen and (min-width: 768px) {
-
-  .instagram h1{
-    font-size: 3.6rem;
-  }
-}
-
 .journaltext {
     margin-top: -140;
     z-index: 3;
@@ -1151,3 +1159,4 @@ h4 {
     font-size:2.6rem;
   }
 }
+
