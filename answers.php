@@ -113,7 +113,7 @@
     <p><b>Jean.</b> Any designer looking to have feedbacks on his/her portfolio. It is a night where we will select three designers to come over with their portfolios so other experienced designers can take a look at them</p>
         </div>
         
-        <hr><button class="accordion">What is Propurbs?</button>
+        <hr><button class="accordion">What is Propeurbs?</button>
 <div class="panel">
     <p><b>Jean.</b> Propurbs is a summit currated by Antean Studios for creative entrepreneurs. Go to propurbs.com for more information about it.</p>
         </div>

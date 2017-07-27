@@ -57,7 +57,7 @@ What makes Slack one of the best platforms out there is that you can bring into 
 </p><br>
 <img src="../journalnews/images/Slacl-Welcome-Desktop-App.png" width="100%"><br><br>
 <p><b>Customized message in welcome loading screen</b><br>
-Slack gives you a friendly feel in some aspects. It lets you customize the loading page. We definitely take great advantage of that. We set up announcements and reminders for the team that will pop up on the loading page. It’s a slick way to announce something because we all use Slack on a daily basis. Our team also finds it entertaining. How awesome is that when it’s your birthday to see your birthday announcement while loading an app? Slack does that.
+Slack gives you a friendly feel in some aspects. It lets you customize the loading page. We definitely take great advantage of that. We set up announcements and reminders for the team that will pop up on the loading page. It’s a slick way to announce something because we all use Slack on a daily basis. Our team also finds it entertaining. How awesome is it when it’s your birthday to see your birthday announcement while loading an app? Slack does that.
 
  <br><br>
 

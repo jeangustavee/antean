@@ -1094,3 +1094,60 @@ h4 {
 .img-circle {
     border-radius: 50%;
 }
+
+#logo {
+  position: fixed;
+  right: 5%;
+  top: 2%;
+  bottom: auto;
+  z-index: 9;
+}
+
+/* container 70% JOIN */
+.container-join {
+    position: relative;
+    padding: 120px 10%;
+    width: auto;
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: gray;
+    line-height: normal;
+    margin-top: -250px;
+}
+
+.container-join h1 {
+    text-align: center;
+    font-weight: 500;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 2.5em;
+}
+
+.container-join h3 {
+    font-weight: 300;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.container-join p {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 1.5rem;
+  }
+
+@media only screen and (max-width: 768px) {
+  .container-join {
+    padding: 125px 10%;
+  }
+    .container-join p{
+        font-size: 1.2rem;
+    }
+  .container-join h1{
+    font-size: 1.7em;
+  }
+    .container-join h3{
+    font-size:2.6rem;
+  }
+}

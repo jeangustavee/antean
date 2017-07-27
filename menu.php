@@ -6,6 +6,10 @@
 		</svg>
 	</a>
 	
+	
+	      <a href="/">  <img id="logo" src="img/Antean_Logo_shadow.png" width="50px"></a>
+	   
+	
 	<div id="nav" class="nav">
 		<div class="navigation-wrapper">
 			<div class="half-block">
@@ -18,6 +22,7 @@
 						<li><a href="studio">The Studio</a></li>
 						<li><a href="press">Press</a></li>
 						<li><a href="answers">Answers</a></li>
+						<li> <a href="join">Careers</a> </li>
 						<li><a href="newbusinesses">New Businesses</a></li>
 					</ul>
 				</nav>

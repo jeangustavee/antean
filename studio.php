@@ -126,7 +126,7 @@ Print<br>
 	<p>As a small studio we do not hire often, but we are always on the lookout for some great talents to collaborate with. Email us a link to your portfolio at hey@anteanstudios.com. Please put "Job Application: Your Name Here" as the subject.</p>
 	</div>
 	<div class="col span_1_of_3">
-        <p><b>Availability:</b><br>Receptionist<br>Designer<br></p>
+        <p><b>Availability:</b><br><a href="join">Business Development</a> <br></p>
 	</div>
 </div>
         

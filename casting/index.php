@@ -30,7 +30,7 @@
 
 <style>
     .top-page {
-    background-image:url(../img/casting/modeling-cover.jpg);
+    background-image:url(../img/casting/feature-film-xl.jpg);
     background-repeat:no-repeat;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -117,27 +117,36 @@
 	</div>
     <div class="container">
         <h1>CALLING ALL ACTORS AND ACTRESSES</h1>
-        <p>ANTEAN STUDIOS is looking for <b>ACTORS & ACTRESSES</b> for multiple projects. You can send us your information below and we will get in touch with you
-				if we feel like your profile is a good match for one of our projects. We have some paid and non-paid projects. Our team will decide on whether a profile
-				is a fit for a paid or non-paid project. However, actors will get paid for all commercial projects. We also want to work with people who are
-				looking for exposures and experiences.</p><br>
+        <p>ANTEAN STUDIOS is looking for ACTORS & ACTRESSES for a commercial we are doing. Please fill out the form below and we will be in contact with you if we feel that you are a great fit for this project. We are looking to work with people who are looking for exposure and experience.</p><br>
 
-				<p><b>LIST OF CURRENT PROJECTS:</b><br>
-					Project: VIDEO COMMERCIAL.<br>
-					Industry: Tax Preparation Company<br>
+				<p><b>CURRENT PROJECT:</b><br>
+					Project: VIDEO COMMERCIAL for Antean Studios.<br>
+					Production Title: Basketball Commercial<br>
+					Project Length: Commercial (30 seconds)<br>
+					Industry: Advertising and Marketing<br>
 					Broadcasting: Social media platforms such as Youtube, Facebook, Instagram, etc.<br>
-					Compensation: $20-$30/hr <br>
+					Compensation: TBD <br>
 					Shooting dates: TBA<br>
+					Director: Cody Stewart Smith<br>
 					Shooting Time: Afternoons and weekends.<br>
-					Role: Main character | 90% Speaking<br>
-					Sex: Female <br>
-					Age: 19-40 y/o <br>
+					Casting Director: Cody Stewart Smith<br>
+					Sex: Male/Female <br>
+					Age: 17-40 y/o <br>
 					Race: N/A [Any race]<br>
 					Language: Fluent in English<br>
 					Location: Antean Studios. 4226 Atlantic Blvd. Jacksonville, fl 32207<br>
-					Contract: Yes<br>
+					Contract: TFP<br>
+
+				</p><br><br>
+				
+				<p><b>CHARACTERS:</b><br>
+				Angela Johnson - Middle-aged single parent who loves her son.<br> 
+                Matt Johnson - 12-16 year old kid who loves basketball. <br>
+                Jack Barnes - Mid to late 20s basketball coach who is trying to get more kids to come to his basketball camp.<br>
+                Extra Kids - 12-16 year old kids who love basketball and want to attend a basketball camp.<br>
 
 				</p>
+				
 
 				<br><br>
         <!-- application submit status -->
@@ -207,6 +216,7 @@
 					      <input name="link" placeholder="Paste a link for your pictures here. [Dropbox, Instagram, etc.]" tabindex="9" required="" />
 					    </label>
 					  </div>
+					  
   <div class="col-submit">
     <input type="submit" name="submit" value="Submit">
   </div>
