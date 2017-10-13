@@ -120,33 +120,24 @@
         <p>ANTEAN STUDIOS is looking for ACTORS & ACTRESSES for a commercial we are doing. Please fill out the form below and we will be in contact with you if we feel that you are a great fit for this project. We are looking to work with people who are looking for exposure and experience.</p><br>
 
 				<p><b>CURRENT PROJECT:</b><br>
-					Project: VIDEO COMMERCIAL for Antean Studios.<br>
-					Production Title: Basketball Commercial<br>
-					Project Length: Commercial (30 seconds)<br>
-					Industry: Advertising and Marketing<br>
+					Project: HUBB INC COLLECTIONS<br>
+					Production Title: Hubb Inc Tees<br>
+					Project Length: 4 hours<br>
+					Industry: Apparel<br>
 					Broadcasting: Social media platforms such as Youtube, Facebook, Instagram, etc.<br>
-					Compensation: TBD <br>
-					Shooting dates: TBA<br>
-					Director: Cody Stewart Smith<br>
-					Shooting Time: Afternoons and weekends.<br>
-					Casting Director: Cody Stewart Smith<br>
+					Compensation: TFP <br>
+					Shooting dates: Saturday, August 26, 2017<br>
+					Director: Jean Gustave<br>
+					Shooting Time: 8:00AM<br>
+					Casting Director: Antean Studios<br>
 					Sex: Male/Female <br>
-					Age: 17-40 y/o <br>
+					Age: 17-30 y/o <br>
 					Race: N/A [Any race]<br>
-					Language: Fluent in English<br>
+					Language: N/A<br>
 					Location: Antean Studios. 4226 Atlantic Blvd. Jacksonville, fl 32207<br>
 					Contract: TFP<br>
 
 				</p><br><br>
-				
-				<p><b>CHARACTERS:</b><br>
-				Angela Johnson - Middle-aged single parent who loves her son.<br> 
-                Matt Johnson - 12-16 year old kid who loves basketball. <br>
-                Jack Barnes - Mid to late 20s basketball coach who is trying to get more kids to come to his basketball camp.<br>
-                Extra Kids - 12-16 year old kids who love basketball and want to attend a basketball camp.<br>
-
-				</p>
-				
 
 				<br><br>
         <!-- application submit status -->
@@ -196,6 +187,7 @@
       Role you are auditioning for
       <select name="role" tabindex="7">
         <option value="None">Select one</option>
+        <option value="Hubbinc-Collections">HUBB INC Collections</option>
         <option value="Main-Character">Main Character</option>
         <option value="Second-Character">Second Character</option>
         <option value="Third-Character">Third Character</option>

@@ -26,7 +26,7 @@ body, html {
 }
 
 a {
-  color: #000;
+  color: #BAB1AB;
   text-decoration: none;
 }
 
@@ -53,12 +53,12 @@ main {
   position: relative;
   z-index: 2;
   /* fix bug on iOS */
-  height: 600px;
+  height: 100vh;
   overflow-y:visible;
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
   margin-bottom: 200px;
-  background-color: #ed1c24;
+  background-color: #C7C0B8;
   max-width: 100%;
   background-size: cover;
   background-position: center;
@@ -117,11 +117,11 @@ main h1 {
 .nav-trigger {
   position: fixed;
   z-index: 6;
-  left: 5%;
+  right: 5%;
   top: 20px;
   height: 54px;
   width: 54px;
-  background-color: #ed1c24;
+  background-color: #C7C0B8;
   border-radius: 50%;
   /* image replacement */
   overflow: hidden;
@@ -261,7 +261,7 @@ main h1 {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #ed1c24;
+  background-color: #C7C0B8;
   visibility: hidden;
   -webkit-transition: visibility 0s 0.7s;
   -moz-transition: visibility 0s 0.7s;
@@ -430,7 +430,7 @@ main h1 {
     width: auto;
     font-size: 2em;
     margin-bottom: 1em;
-    color: #000;
+    color: #BAB1AB;
     line-height: normal;
     text-align: center;
     border: none;
@@ -438,6 +438,7 @@ main h1 {
 
 .clients h1 {
     font-size: 2.5em;
+    color: #C7C0B8;
 }
 
 @media only screen and (max-width: 768px) {
@@ -454,7 +455,7 @@ main h1 {
     position: relative;
     padding: 120px 10%;
     width: auto;
-    background-color: #ed1c24;
+    background-color: #C7C0B8;
     color: #ffffff;
     line-height: normal;
     font-size: 2em;
@@ -517,7 +518,7 @@ main h1 {
     color: #fff;
     line-height: normal;
     text-align: center;
-    background-color: #ed1c24;
+    background-color: #C7C0B8;
 }
 
 .top-page h1 {
@@ -597,7 +598,7 @@ main h1 {
     margin-bottom: 1em;
     color: #fff;
     line-height: normal;
-    background-color: #ed1c24;
+    background-color: #C7C0B8;
 
 }
 
@@ -740,7 +741,7 @@ main h1 {
 /* Accordion */
 button.accordion {
     background-color: transparent;
-    color: #ed1c24;
+    color: #C7C0B8;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -770,7 +771,7 @@ div.panel.show {
 button.accordion:after {
     content: '\02795'; /* Unicode character for "plus" sign (+) */
     font-size: 13px;
-    color: #ed1c24;
+    color: #C7C0B8;
     float: right;
     margin-left: 5px;
 }

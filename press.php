@@ -3,7 +3,6 @@
 <body>
 	<div class="top-page">
 
-            <img src="img/Antean_Press.png" width="42%">
             <h1>Want to say something about us? <br>Go head, suit yourself.</h1>
 
 	</div>

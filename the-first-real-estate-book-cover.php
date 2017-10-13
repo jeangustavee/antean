@@ -6,7 +6,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: #000;
+    color: #A49C98;
     width: 100%;
     height: 500px;
 }

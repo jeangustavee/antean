@@ -5,7 +5,7 @@
     background-size: cover;
     background-color: white;
     background-repeat: no-repeat;
-    color: #000;
+    color: #A49C98;
 }
 </style>
 

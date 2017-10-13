@@ -38,7 +38,6 @@ img {
 <?php include("menu.php"); ?>
 <body>
 	<div class="top-page">
-            <img src="img/Antean_News.png" width="42%">
             <h1>We don’t keep it to ourselves, <br>we share it with the world.</h1>
 	</div>
         <div class="container">

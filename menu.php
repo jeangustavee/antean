@@ -7,7 +7,7 @@
 	</a>
 	
 	
-	      <a href="/">  <img id="logo" src="img/Antean_Logo_shadow.png" width="50px"></a>
+	    <!--  <a href="/">  <img id="logo" src="img/Antean_Logo_shadow.png" width="50px"></a> -->
 	   
 	
 	<div id="nav" class="nav">
@@ -32,11 +32,11 @@
 				<address>
 					<ul class="contact-info">
 						<li><a href="mailto:hey@anteanstudios.com">e. Contact us by email</a></li>
-						<li>ph.+1 (904) 580-5923</li>
+						<li>ph.+1 (904) 487-8334</li>
 						<li>
                             <span>address. Antean Studios</span>
-                            <span>4226 Atlantic Blvd</span>
-							<span>Jacksonville, FL 32207</span>
+                            <span>101 Century 21 Dr. Suite 113</span>
+							<span>Jacksonville, FL 32216</span>
 						</li>
 					</ul>
 				</address>

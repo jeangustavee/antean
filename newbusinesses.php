@@ -29,7 +29,7 @@
 
     h2{
         font-size: 1.5em;
-        color: #ea5a5a;
+        color: #C7C0B8;
     }
 
     .container-red{
@@ -43,7 +43,7 @@
   .top-page h1{
     font-size: 3.6rem;
     text-align: left;
-    color: #ea5a5a;
+    color: #A49C98;
   }
     h3{
         font-size: 3.5em;

@@ -2,11 +2,7 @@
 
 <body>
 	<div class="top-page">
-		
-            <img src="img/Antean_About.png" width="42%">
             <h1>We are a multi functional agency, <br>we love good things and great design.</h1>
-	   
-        
 	</div>
 
 	<?php include("menu.php"); ?>
@@ -14,7 +10,7 @@
     
     <div class="container-about">
         <h1>We Spark Results</h1>
-        <img src="img/antean_interior.jpg" width="100%"><br><br>
+       <!-- <img src="img/antean_interior.jpg" width="100%"><br><br> -->
         <p>Antean Studios is a creative and digital marketing firm based in Jacksonville, FL focusing on graphic design, web design, printing, social media, commercials, apps, films, books and objects for clients, audiences and ourselves. We bring brands and culture together. We believe that storytelling is key to consumer engagement and it, united with immersive user experiences, is central to every project.</p> <br>
         
         <p>Our team includes graphic designers, writers, animators, developers and brand specialists who create web and mobile platforms, campaigns and experiences that speak to your consumers through shared values and interests.</p>
@@ -53,43 +49,6 @@ Print<br>
         </div>
     
     <div class="container">
-         <div class="section group">
-            <div class="col span_1_of_2">
-	<a href="shanice-cook">
-	<img src="img/team/shanice-cook.JPG" width="100%">
-	<h5>SHANICE COOK </h5>
-	<p>Communications - Public Relations - Social Media</p></a>
-	</div>
-            
-            
-	<div class="col span_1_of_2">
-	<a href="ashley-barzaga">
-	<img src="img/team/ashley-barzaga.JPG" width="100%">
-	<h5>ASHLEY BARZAGA </h5>
-	<p>Graphic Design/Animation</p></a>
-	</div>   
-            
-</div>
-       
-     <div class="section group"> 
-      <div class="col span_1_of_2">
-	<a href="cody-smith">
-	<img src="img/team/cody-smith.JPG" width="100%">
-	<h5>CODY SMITH </h5>
-	<p>Graphic Design/Production</p></a>
-	</div> 
-      
-      <div class="col span_1_of_2">
-	<a href="jean-gustave">
-	<img src="img/team/jean-gustave.JPG" width="100%">
-	<h5>JEAN GUSTAVE </h5>
-    <p>Art Director</p></a>
-	</div>
-       
-        </div>
-       
-       
-       <br><br><br><hr><br><br>
        
        
         <h1>FAQ</h1>

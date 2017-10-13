@@ -28,7 +28,7 @@ Thanks for checking our codes out
     <meta name="description" content="Antean Studios is a digital agency based in Jacksonville, FL specializing in graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves. ">
     <meta property="og:description" content="Antean Studios is a digital agency based in Jacksonville, FL specializing in graphic design, web design, commercials, apps, films, books and objects for clients, audiences and ourselves.">
     <meta name="keywords" content="Jacksonville, graphic design, web design, ui design, ux design, advertising, marketing, digital marketing, growth">
-    <meta property="og:url" content="http://anteanstudios.com//">
+    <meta property="og:url" content="http://antean.agency//">
 
 	<link href="https://fonts.googleapis.com/css?family=Anton|Poppins:330" rel="stylesheet">
 
@@ -59,5 +59,22 @@ Thanks for checking our codes out
         }
     ?>  
     
-      <script src="https://embed.small.chat/T49JGUDHVG5FTXSQ67.js" async></script>  
+      <script src="https://embed.small.chat/T49JGUDHVG5FTXSQ67.js" async></script>
+      
+        
+          
+            
+              
+                <!-- Hotjar Tracking Code for http://anteanstudios.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:633344,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  
 </head>

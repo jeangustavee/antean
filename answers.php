@@ -3,12 +3,8 @@
 
 <body>
 	<div class="top-page">
-		
-            <img src="img/Antean_Answers.png" width="42%">
             <h1>About our ins and outs <br>We do share what we know.</h1>
-	   
-        
-	</div>
+	   </div>
 	
     
     <div class="container">

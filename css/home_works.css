@@ -6,16 +6,16 @@
 	min-height: 550px;
 	position: relative;
 	margin: 0 30vw 0 0;
-    transition: all 5s ease-out;
 }
 
+/*
 .fragment-wrap:hover {
-    box-shadow: inset 0 0 0 25px #ED1C24;
+    box-shadow: inset 0 0 0 25px #C7C0B8;
     -webkit-transform: scale(0.9);
         -ms-transform: scale(0.9);
         transform: scale(0.9);
-    transition: all .5s ease-in;
 }
+*/
 
 .fragment-wrap--right {
 	margin: 0 0 0 30vw;
@@ -75,11 +75,13 @@
 	pointer-events: none;
 	bottom: 10%;
 	left: 35%;
+    color: #A49C98;
 }
 
 .title--left {
 	left: auto;
 	right: 35%;
+    color: #A49C98;
 }
 
 .text {
@@ -159,5 +161,6 @@
 	}
 	.title {
 		font-size: 20vw;
+        color: #C7C0B8;
 	}
 }

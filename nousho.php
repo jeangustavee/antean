@@ -3,7 +3,7 @@
 <style>
 .top-page {
     background-color: lightgray;
-    color: #ed1c24;
+    color: #A49C98;
 }
 </style>
 
