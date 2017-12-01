@@ -14,7 +14,7 @@
 	<script src="../js/modernizr.js"></script> <!-- Modernizr -->
     <link rel="icon" type="image/png" sizes="32x32" href="../img/antean_favicon.png">
 
-	<title>CASTING CALL by Antean Studios | Jacksonville, fl </title>
+	<title>CASTING CALL by Antean | Jacksonville, fl </title>
 
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -117,25 +117,25 @@
 	</div>
     <div class="container">
         <h1>CALLING ALL ACTORS AND ACTRESSES</h1>
-        <p>ANTEAN STUDIOS is looking for ACTORS & ACTRESSES for a commercial we are doing. Please fill out the form below and we will be in contact with you if we feel that you are a great fit for this project. We are looking to work with people who are looking for exposure and experience.</p><br>
+        <p>ANTEAN is looking for ACTORS & ACTRESSES for a commercial. Please fill out the form below and we will be in contact with you if we feel that you are a great fit for this project. We are looking to work with people who are looking for exposure and experience as well.</p><br>
 
 				<p><b>CURRENT PROJECT:</b><br>
-					Project: HUBB INC COLLECTIONS<br>
-					Production Title: Hubb Inc Tees<br>
-					Project Length: 4 hours<br>
-					Industry: Apparel<br>
+					Project: VIDEO COMMERCIAL<br>
+					Production Title: ANTEAN COM.<br>
+					Project Length: 4+ hours<br>
+					Industry: Finance<br>
 					Broadcasting: Social media platforms such as Youtube, Facebook, Instagram, etc.<br>
-					Compensation: TFP <br>
-					Shooting dates: Saturday, August 26, 2017<br>
+					Compensation: $20-30/hour <br>
+					Shooting dates: TBA (Weekend)<br>
 					Director: Jean Gustave<br>
 					Shooting Time: 8:00AM<br>
-					Casting Director: Antean Studios<br>
+					Casting Director: Antean<br>
 					Sex: Male/Female <br>
 					Age: 17-30 y/o <br>
 					Race: N/A [Any race]<br>
-					Language: N/A<br>
-					Location: Antean Studios. 4226 Atlantic Blvd. Jacksonville, fl 32207<br>
-					Contract: TFP<br>
+					Language: Fluent in English<br>
+					Location: Antean Studios. 101 Century 21 Dr. Suite 113. Jacksonville, fl 32216<br>
+					Contract: Paid Contract<br>
 
 				</p><br><br>
 
@@ -187,7 +187,6 @@
       Role you are auditioning for
       <select name="role" tabindex="7">
         <option value="None">Select one</option>
-        <option value="Hubbinc-Collections">HUBB INC Collections</option>
         <option value="Main-Character">Main Character</option>
         <option value="Second-Character">Second Character</option>
         <option value="Third-Character">Third Character</option>
